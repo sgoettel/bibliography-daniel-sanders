@@ -1,6 +1,6 @@
 # Bibliography of Daniel Sanders (1819–1897)
 
-This repository contains, as far as we know, the complete bibliography of Daniel Sanders.  
+This repository contains, as far as we know, the complete bibliography of [Daniel Sanders](https://en.wikipedia.org/wiki/Daniel_Sanders_(lexicographer)).  
 
 - **`bibliography-daniel-sanders.json`** – JSON (CSL) export from Zotero, fully structured and importable back into Zotero.  
 - **`bibliography-daniel-sanders.xml`** – TEI-XML export from Zotero of the bibliography, used for display and transformation.  
