@@ -1,0 +1,5854 @@
+[
+	{
+		"id": "http://zotero.org/users/6499868/items/KCKS73HI",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Grünberg/Leipzig",
+		"publisher": "W. Levysohn",
+		"publisher-place": "Grünberg/Leipzig",
+		"title": "Neugriechische Volks- und Freiheitslieder: Zum Besten der unglücklichen Kandioten",
+		"URL": "https://books.google.de/books?id=baNdAAAAcAAJ",
+		"author": [
+			{
+				"family": "Carrière",
+				"given": "Moritz"
+			},
+			{
+				"family": "Oppenheim",
+				"given": "Bernhard Heinrich"
+			},
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1842"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/GS6E3L2P",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Mannheim",
+		"publisher": "Friedrich Bassermann",
+		"publisher-place": "Mannheim",
+		"title": "Das Volksleben der Neugriechen dargestellt und erklärt aus Liedern, Sprichwörtern, Kunstgedichten nebst einem Anhange von Musikbeilagen und zwei kritischen Abhandlungen",
+		"URL": "https://books.google.de/books?id=7cEGAAAAQAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1844"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/4JWRF6SE",
+		"type": "book",
+		"archive": "MDZ",
+		"event-place": "Berlin",
+		"publisher": "Langenscheidt'sche Verlags-Buchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Abriß der Deutschen Silbenmessung und Verskunst",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb11023540",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1881"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/H5ZS5S37",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Hamburg",
+		"publisher": "Hoffmann und Campe",
+		"publisher-place": "Hamburg",
+		"title": "Xenien der Gegenwart",
+		"URL": "https://books.google.de/books?id=Jg5OAAAAcAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			},
+			{
+				"family": "Glaßbrenner",
+				"given": "Adolph"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1850"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/CQBG7HRK",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Berlin",
+		"publisher": "Langenscheidt'sche Verlags-Buchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Wörterbuch der Zeitwörter mit starker oder mit unregelmäßiger Abwandlung",
+		"URL": "https://books.google.de/books?id=En0VAAAAYAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1879"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/H9BFKL4X",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Berlin",
+		"note": "Erlebte insgesamt wohl 24 Auflagen, vgl.: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11023545-2.",
+		"publisher": "Langenscheidt'sche Verlags-Buchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Wörterbuch der Hauptschwierigkeiten in der deutschen Sprache: Große Ausgabe",
+		"URL": "https://books.google.de/books?id=q2YvAAAAYAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1880"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/GBLMHFEU",
+		"type": "book",
+		"note": "Der Druck erschien nur unter dem Pseudonym Hans Sachse. Vermutl. Wiederauflage von 1804. Zu diesem Zeitpunkt erschien das Büchlein mit exakt gleichem Titel und auch ohne Verlags- oder Druckortangabe.",
+		"title": "Ueber Juden und Christen: ein Wort zu rechter Zeit und am rechten Ort / in Reime gezwungen und abgesungen von Hans Sachse, dem Jüngeren Meistersänger und Schuhmacher dazu. Nachgeschrieben mit rüstingen Fingern. Gedruckt in diesem Jahr, wo über die Juden zu schreiben Mode war",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1880"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/45HINEZJ",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Leipzig",
+		"publisher": "Breitkopf und Härtel",
+		"publisher-place": "Leipzig",
+		"title": "Orthographisches Hilfsbuch als Norm für Schriftsetzer und Druckberichtiger",
+		"URL": "https://books.google.de/books?id=oEEyAQAAMAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1879"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/MHYKLNF8",
+		"type": "book",
+		"archive": "Internet Archive",
+		"collection-title": "Bibliothek ausführlichen Lehr- und Lesebücher der modernen Sprachen und Litteraturen",
+		"event-place": "Leipzig",
+		"note": "Rechtmäßige deutsche Bearbeitung des Handbook to Modern Greek by Edg. Vincent and T. G. Dickson.",
+		"publisher": "Breitkopf und Härtel",
+		"publisher-place": "Leipzig",
+		"title": "Neugriechische Grammatik nebst Sprachproben für die Fortbildung und Umgestaltung des Griechischen von Homer bis auf die Gegenwart",
+		"title-short": "Neugriechische Grammatik.",
+		"URL": "https://archive.org/details/neugriechischeg00sandgoog",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1881"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/LUUVDNB8",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Berlin",
+		"publisher": "Abenheim'sche Verlagsbuchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Neue Beiträge zur Deutschen Synonymik",
+		"URL": "https://archive.org/details/neuebeitrgezurd00sandgoog",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1881"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/ZUX4ECHU",
+		"type": "book",
+		"archive": "MDZ",
+		"event-place": "Berlin",
+		"note": "Ab der 2. Aufl. (1877) nur noch \"Lehrbuch der deutschen Sprache für Schulen\", vgl.: https://books.google.de/books?id=QGsVAAAAYAAJ",
+		"publisher": "Langenscheidt'sche Verlags-Buchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Lehrbuch der deutschen Sprache für Volks- und Bürgerschulen (mit Beispielen und Übungsaufgaben): nebst Anhang: Wörterbuch der Zeitwörter mit starker oder mit unregelmässiger Abwandlung in der heutigen deutschen Schriftsprache",
+		"URL": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11023536-2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/9NJTPVPS",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Leipzig",
+		"publisher": "Breitkopf und Härtel",
+		"publisher-place": "Leipzig",
+		"title": "Kurzgefaßtes Hilfsbuch der Rechtschreibung für deutsche Schulen",
+		"URL": "https://books.google.de/books?id=7ShsJPsYayoC",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1880"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/TZ6AJDDY",
+		"type": "book",
+		"event-place": "Neustrelitz",
+		"note": "Digitalisat bisher nicht nachweisbar.",
+		"publisher": "Barnewitz",
+		"publisher-place": "Neustrelitz",
+		"title": "Heitere Kinderwelt",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1868"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/HEV7CCUV",
+		"type": "book",
+		"event-place": "Neustrelitz",
+		"note": "Digitalisat bisher nicht nachweisbar.",
+		"publisher": "Barnewitz",
+		"publisher-place": "Neustrelitz",
+		"title": "Gespräche: eine Ergänzung zu allen Schullesebüchern für Kinder von 8–14 Jahren",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1845"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/K8MYF2LI",
+		"type": "book",
+		"event-place": "Berlin",
+		"note": "Digitalisat bisher nicht nachweisbar.",
+		"publisher": "Rosenbaum",
+		"publisher-place": "Berlin",
+		"title": "Fürs deutsche Haus: Blüthenlese aus der Bibel und den mustergültigen griechischen und römischen Schriftsteller, als der Grundlage unserer Volks und gelehrten Bildung",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1886"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/RV2B2SC2",
+		"type": "book",
+		"archive": "Scripta Paedagogica Online",
+		"event-place": "Berlin",
+		"note": "Erweiterte Neuauflage des Werkes „Heitere Kinderwelt“ von 1868. Das vorliegende Digitalisat zeigt die 3. Aufl. (1892).",
+		"publisher": "Hans Lustenöder",
+		"publisher-place": "Berlin",
+		"title": "Für die fröhliche Jugend: Gabe eines heiteren Kinderfreundes",
+		"URL": "https://nbn-resolving.org/urn:nbn:de:0111-bbf-spo-17377890",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1890"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/LK64GMB2",
+		"type": "book",
+		"archive": "Google Books",
+		"edition": "2. Aufl.",
+		"event-place": "Leipzig",
+		"note": "Rechtmäßige deutsche Bearbeitung des Handbook to Modern Greek by Edg. Vincent [Lord D'Abernon] and T. G. Dickson",
+		"publisher": "Breitkopf und Härtel",
+		"publisher-place": "Leipzig",
+		"title": "Die heutige griechische Sprache : erster Theil: Neugriechische Grammatik ; zweiter Theil: Neugriechisches Übungs- und Lesebuch mit Sprachproben für die Fortbildung und Umgestaltung des Griechischen von Homer bis auf die Gegenwart",
+		"URL": "https://books.google.de/books?id=3tZExQTlBO8C",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1890"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/QKFK8YR7",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Berlin",
+		"publisher": "H. W. Müller",
+		"publisher-place": "Berlin",
+		"title": "Deutsches Stil-Musterbuch: mit Erläuterungen und Anmerkungen",
+		"URL": "https://books.google.de/books?id=FS5AAAAAYAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1886"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/FUJ8IILU",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Hamburg",
+		"note": "Register-Theil",
+		"number-of-volumes": "2",
+		"publisher": "Hoffmann und Campe",
+		"publisher-place": "Hamburg",
+		"title": "Deutscher Sprachschatz geordnet nach Begriffen zur leichten Auffindung und Auswahl des passenden Ausdrucks, ein stilistisches Hülfsbuch für jeden Deutsch Schreibenden",
+		"title-short": "Sprachschatz",
+		"URL": "https://archive.org/details/deutschersprachs02sanduoft",
+		"volume": "Bd. 2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1877"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/MT8TMY7H",
+		"type": "book",
+		"archive": "MDZ",
+		"event-place": "Berlin",
+		"note": "Ab der 2. Aufl. (1877) nur noch \"Lehrbuch der deutschen Sprache für Schulen\", vgl.: https://books.google.de/books?id=QGsVAAAAYAAJ",
+		"publisher": "Langenscheidt'sche Verlags-Buchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Deutsche Sprachlehre für Volks- und Bürgerschulen: (mit Beispielen und Übungsaufgaben): nebst Anhang: Wörterbuch der Zeitwörter mit starker oder mit unregelmäßiger Abwandlung in der heutigen deutschen Schriftsprache",
+		"URL": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11023536-2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/ZMQ8BY6I",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Berlin",
+		"note": "In den darauffolgenden Auflagen wird das Werk gemeinsam mit \"Geschichte der deutschen Sprache und Litteratur\" verlegt und erhält den Titelzusatz \"Nebst Anhang Geschichte der deutschen Sprache und Litteratur bis zu Goethe's Tod\", vgl. die 6. Aufl., 1886: https://archive.org/details/deutschesprachb00sandgoog. Insgesamt erlebte das Werk bis 1906 21 Auflagen.",
+		"publisher": "Langenscheidt'sche Verlags-Buchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Deutsche Sprachbriefe",
+		"URL": "https://books.google.de/books?id=fzZAAAAAYAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1879"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/EVFRSF5H",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Berlin",
+		"publisher": "Langenscheidt'sche Verlags-Buchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Geschichte der deutschen Sprache und der Litteratur bis zu Goethe’s Tod",
+		"URL": "https://books.google.de/books?id=2rv9n1zeXysC",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1879"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/PCSSZZAA",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Leipzig",
+		"publisher": "Keil",
+		"publisher-place": "Leipzig",
+		"title": "366 Sprüche",
+		"URL": "https://books.google.de/books?id=rkPqqALh0-EC",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1892"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/AA76774F",
+		"type": "book",
+		"archive": "Deutsches Textarchiv",
+		"event-place": "Berlin",
+		"publisher": "Hans Lustenöder",
+		"publisher-place": "Berlin",
+		"title": "Aus der Werkstatt eines Wörterbuchschreibers: Plaudereien",
+		"URL": "http://www.deutschestextarchiv.de/book/show/sanders_woerterbuchschreiber_1889",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1889"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/FLJXGB42",
+		"type": "book",
+		"event-place": "Stuttgart",
+		"note": "Digitalisat bisher nicht nachweisbar.",
+		"publisher": "Abenheim'sche Verlagsbuchhandlung",
+		"publisher-place": "Stuttgart",
+		"title": "Aus den besten Lebensstunden: Eigenes und Angeeignetes",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1878"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/HIIWMQPT",
+		"type": "book",
+		"archive": "MDZ",
+		"event-place": "Berlin",
+		"note": "Erlebte insgesamt 10 Auflagen; das vorliegende Digitalisat zeigt die 2. Aufl.",
+		"publisher": "Langenscheidt'sche Verlags-Buchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Kurzgefasstes Wörterbuch der Hauptschwierigkeiten in der deutschen Sprache",
+		"URL": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10993084-4",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1872"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/NYD8LCKF",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Leipzig",
+		"publisher": "F. A. Brockhaus",
+		"publisher-place": "Leipzig",
+		"title": "Orthographisches Wörterbuch oder alphabetisches Verzeichnis aller deutschen oder im Deutschen eingebürgerten Wörter mit schwieriger oder fraglicher Schreibweise in endgültiger Feststellung",
+		"title-short": "Orthographisches Wörterbuch",
+		"URL": "https://archive.org/details/orthographische00sandgoog",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1875"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/N5SKDW33",
+		"type": "book",
+		"event-place": "Leipzig",
+		"note": "Digitalisat bisher nicht nachweisbar.",
+		"publisher": "F. A. Brockhaus",
+		"publisher-place": "Leipzig",
+		"title": "Orthographisches Schul-Wörterbuch",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1875"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/XRBZ5XA2",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Berlin",
+		"number-of-volumes": "2",
+		"publisher": "J. Guttentag (D. Collin)",
+		"publisher-place": "Berlin",
+		"title": "Vorschläge zur Feststellung einer einheitlichen Rechtschreibung für Alldeutschland: an das Deutsche Volk, Deutschlands Vertreter und Schulmänner",
+		"URL": "https://books.google.de/books?id=s65TAAAAcAAJ",
+		"volume": "2. Heft",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1874"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/GQZCC8N9",
+		"type": "book",
+		"archive": "MDZ",
+		"event-place": "Berlin",
+		"number-of-volumes": "2",
+		"publisher": "J. Guttentag (D. Collin)",
+		"publisher-place": "Berlin",
+		"title": "Vorschläge zur Feststellung einer einheitlichen Rechtschreibung für Alldeutschland: an das Deutsche Volk, Deutschlands Vertreter und Schulmänner",
+		"URL": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11023533-6",
+		"volume": "1. Heft",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1873"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/NHYDMG5F",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Leipzig",
+		"note": "Das vorliegende Digitalisat zeigt die 3. Aufl. (1873).",
+		"publisher": "J. J. Weber",
+		"publisher-place": "Leipzig",
+		"title": "Katechismus der deutschen Orthographie",
+		"URL": "https://archive.org/details/bub_gb_8IoNAAAAYAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1866"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/2SIMRKZ7",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Berlin",
+		"publisher": "J. Guttentag (D. Collin)",
+		"publisher-place": "Berlin",
+		"title": "Die großen Anfangsbuchstaben in der deutschen Rechtschreibung: aus dem in Vorbreitung begriffenen vollständigen orthographischen Wörterbuch für Alldeutschland",
+		"URL": "https://books.google.de/books?id=R0lTAAAAcAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1873"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/XDKPPD7Z",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Hamburg",
+		"number-of-volumes": "2",
+		"publisher": "Hoffmann und Campe",
+		"publisher-place": "Hamburg",
+		"title": "Deutscher Sprachschatz geordnet nach Begriffen zur leichten Auffindung und Auswahl des passenden Ausdrucks, ein stilistisches Hülfsbuch für jeden Deutsch Schreibenden",
+		"title-short": "Sprachschatz",
+		"URL": "https://archive.org/details/deutschersprachs01sanduoft",
+		"volume": "Bd. 1",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1873"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/TXMH934M",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Hamburg",
+		"publisher": "Hoffmann und Campe",
+		"publisher-place": "Hamburg",
+		"title": "Wörterbuch Deutscher Synonymen",
+		"URL": "https://archive.org/details/bub_gb_4QPnK8HjmhMC",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1871"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/T2ZPDSZW",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Leipzig",
+		"publisher": "Otto Wigand",
+		"publisher-place": "Leipzig",
+		"title": "Handwörterbuch der deutschen Sprache",
+		"URL": "https://books.google.de/books?id=avE8AAAAcAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1869"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/6U44FSNY",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Leipzig",
+		"publisher": "Otto Wigand",
+		"publisher-place": "Leipzig",
+		"title": "Das hohe Lied Salomonis",
+		"URL": "https://books.google.de/books?id=riXtoxFrIbIC",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1866"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/W5Q8YCRA",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Leipzig",
+		"note": "S–Z",
+		"number-of-volumes": "2.2",
+		"publisher": "Otto Wigand",
+		"publisher-place": "Leipzig",
+		"title": "Wörterbuch der Deutschen Sprache: mit Belegen von Luther bis auf die Gegenwart",
+		"title-short": "WDS",
+		"URL": "https://books.google.de/books?id=hyBJAAAAcAAJ",
+		"volume": "Bd. 2.2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1865"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/Y52GNPBR",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Leipzig",
+		"note": "L–R",
+		"number-of-volumes": "2.2",
+		"publisher": "Otto Wigand",
+		"publisher-place": "Leipzig",
+		"title": "Wörterbuch der Deutschen Sprache: mit Belegen von Luther bis auf die Gegenwart",
+		"title-short": "WDS",
+		"URL": "https://books.google.de/books?id=VjQTAAAAQAAJ",
+		"volume": "Bd. 2.1",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1863"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/D94497XQ",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Leipzig",
+		"note": "A–K",
+		"number-of-volumes": "2.2",
+		"publisher": "Otto Wigand",
+		"publisher-place": "Leipzig",
+		"title": "Wörterbuch der Deutschen Sprache: mit Belegen von Luther bis auf die Gegenwart",
+		"title-short": "WDS",
+		"URL": "https://books.google.de/books?id=MpREAAAAcAAJ",
+		"volume": "Bd. 1",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1860"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/JU2GEMKM",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Leipzig",
+		"publisher": "J. J. Weber",
+		"publisher-place": "Leipzig",
+		"title": "Programm eines neuen Wörterbuches der deutschen Sprache",
+		"URL": "https://books.google.de/books?id=wpVEAAAAcAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1854"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/BULTYQE8",
+		"type": "book",
+		"archive": "MDZ",
+		"event-place": "Hamburg",
+		"number-of-volumes": "2",
+		"publisher": "Hoffmann und Campe",
+		"publisher-place": "Hamburg",
+		"title": "Das deutsche Wörterbuch von Jakob Grimm und Wilhelm Grimm, kritisch beleuchtet",
+		"URL": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584290-5",
+		"volume": "2. Heft",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1853"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/NBCD3KDJ",
+		"type": "book",
+		"archive": "MDZ",
+		"event-place": "Hamburg",
+		"number-of-volumes": "2",
+		"publisher": "Hoffmann und Campe",
+		"publisher-place": "Hamburg",
+		"title": "Das deutsche Wörterbuch von Jakob Grimm und Wilhelm Grimm, kritisch beleuchtet",
+		"URL": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584289-7",
+		"volume": "1. Heft",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1852"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/FSEKIXEU",
+		"type": "book",
+		"archive": "Compact Memory",
+		"event-place": "Zürich",
+		"publisher": "Verlags-Magazin (J. Schabelitz)",
+		"publisher-place": "Zürich",
+		"title": "Die beiden Apostel: ein Schwank von Hans Sachs dem Jüngern",
+		"URL": "http://sammlungen.ub.uni-frankfurt.de/urn/urn:nbn:de:hebis:30-180012546009",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1881"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/EWZPCULR",
+		"type": "book",
+		"archive": "Google Books",
+		"publisher": "Abenheim'sche Verlagsbuchhandlung",
+		"title": "Leitfaden zur Grundlage der deutschen Grammatik: die grammatischen Grundbegriffe; die Redeteile im allgemeinen und die Pronomina im besondern",
+		"URL": "https://books.google.de/books?id=b0hTAAAAcAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1884"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/X3CKZVB2",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Leipzig",
+		"publisher": "Otto Wigand",
+		"publisher-place": "Leipzig",
+		"title": "Verdeutschungswörterbuch",
+		"URL": "https://books.google.de/books?id=GF0VAAAAYAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1884"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/EN8XQK9B",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Berlin",
+		"publisher": "Abenheim'sche Verlagsbuchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Ergänzungs-Wörterbuch der deutschen Sprache: eine Vervollständigung und Erweiterung aller bisher erschienen deutsch-sprachlichen Wörterbücher (einschließlich des Grimm'schen): Mit Belegen von Luther bis auf die neueste Gegenwart",
+		"title-short": "Ergänzungswörterbuch",
+		"URL": "https://archive.org/details/bub_gb_mBQ9AAAAYAAJ_2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1885"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/8IRHBS5P",
+		"type": "book",
+		"archive": "Wikimedia",
+		"event-place": "Berlin",
+		"note": "Dasvorliegende Digitalisat zeigt die 2. Aufl. (1895).",
+		"publisher": "Hugo Steinitz",
+		"publisher-place": "Berlin",
+		"title": "Taschen-Lexikon des allgemeinen Wissens",
+		"URL": "https://de.wikipedia.org/wiki/Datei:Daniel_Sander_Taschenlexikon.pdf",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1887"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/SJVN3V9B",
+		"type": "book",
+		"archive": "MDZ",
+		"event-place": "Berlin",
+		"publisher": "Hans Lustenöder",
+		"publisher-place": "Berlin",
+		"title": "Bausteine zu einem Wörterbuch der sinnverwandten Ausdrücke im Deutschen: ein Vermächtnis an das deutsche Volk",
+		"URL": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11023544-7",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1889"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/52DSQ8SK",
+		"type": "book",
+		"archive": "MDZ",
+		"event-place": "Leipzig",
+		"note": "A–K",
+		"number-of-volumes": "2",
+		"publisher": "Otto Wigand",
+		"publisher-place": "Leipzig",
+		"title": "Fremdwörterbuch",
+		"URL": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10797711-7",
+		"volume": "Bd. 1",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1871"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/D84ETV8T",
+		"type": "book",
+		"archive": "MDZ",
+		"event-place": "Leipzig",
+		"note": "L–Z",
+		"number-of-volumes": "2",
+		"publisher": "Otto Wigand",
+		"publisher-place": "Leipzig",
+		"title": "Fremdwörterbuch",
+		"URL": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10797712-3",
+		"volume": "Bd. 2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1871"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/37VBHLJX",
+		"type": "book",
+		"event-place": "Berlin",
+		"note": "Pappeinband mit goldgeprägtem Deckeltitel in Nickeldose mit Schnappverschluss und eingearbeiteter Lupe; kleinstes gedrucktes Lexikon (25 x 30 mm), Digitalisat bisher nicht nachweisbar.",
+		"publisher": "Hugo Steinitz",
+		"publisher-place": "Berlin",
+		"title": "Konversations-Lexikon: Piccolo-Ausgabe",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1896"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/7Y7BNFQU",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Berlin",
+		"note": "Grüne Zinndose mit eingebauter Lupe u.goldgeprägtem klappbaren Frontdeckel in Art-déco-Ausführung; 43 x 60 mm.",
+		"publisher": "Hugo Steinitz",
+		"publisher-place": "Berlin",
+		"title": "Moment-Lexikon und Fremdwörterbuch",
+		"URL": "https://archive.org/details/momentlexikonun00sandgoog",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1897"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/36IHEZW2",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Leipzig",
+		"note": "Erschien erst nach Sanders’ Tod; erlebte bis 1922 insgesamt 4 Auflagen.",
+		"publisher": "J. J. Weber",
+		"publisher-place": "Leipzig",
+		"title": "Citatenlexikon: Sammlung von Citaten, Sprichwörten, sprichwörtlichen Redensarten und Sentenzen",
+		"URL": "https://archive.org/details/citatenlexikonsa00sanduoft",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1899"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/AIHB6Q4J",
+		"type": "book",
+		"archive": "Google Books",
+		"event-place": "Berlin",
+		"publisher": "Ferd. Dümmler's Buchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Die Hochzeit des Kutrulis, ein aristophanisches Lustspiel von Alexandhros Rhisos Rhangawis: aus dem Neugriechischen übersetzt von D. H. Sanders",
+		"URL": "https://books.google.de/books?id=e1AAAAAAcAAJ",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			},
+			{
+				"family": "Rhankaves",
+				"given": "Alexandros Rhizos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1848"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/VALHSNYM",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Berlin",
+		"note": "A–H von Sanders, fortgeführt von Immanuel Schmidt, beendet von Cornelis Stoffel; erlebte zahlreiche Auflagen in kleiner, großer, Hand- und Schul-Ausgabe. Das vorliegende Digitalisat zeigt die große Ausgabe in 2. Aufl (1900).",
+		"publisher": "Langenscheidt'sche Verlags-Buchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Muret-Sanders Enzyklopädisches englisch-deutsches und deutsch-englisches Wörterbuch: mit Angabe der Aussprache nach dem phonetischen System der Methode Toussaint-Langenscheidt: Große Ausgabe",
+		"title-short": "Muret-Sanders",
+		"URL": "https://archive.org/details/muretsandersenzy01mure",
+		"author": [
+			{
+				"family": "Muret",
+				"given": "Eduard"
+			},
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1899"
+				]
+			],
+			"season": "ff"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/IHJDS9GT",
+		"type": "book",
+		"archive": "Internet Archive",
+		"event-place": "Berlin",
+		"publisher": "Abenheim'sche Verlagsbuchhandlung",
+		"publisher-place": "Berlin",
+		"title": "Satzbau und Wortfolge in der deutschen Sprache",
+		"URL": "https://archive.org/details/satzbauundwortf00sandgoog",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1883"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/FI7IFBXB",
+		"type": "book",
+		"archive": "Google Books",
+		"collection-number": "Nr. 31",
+		"collection-title": "Weber’s illustrirte Katechismen: Belehrungen aus dem Gebiete der Wissenschaften und Künste",
+		"event-place": "Leipzig",
+		"note": "Ab 1866 als Einzelausgabe (= nicht mehr Teil einer Schriftenreihe) verlegt.",
+		"publisher": "J. J. Weber",
+		"publisher-place": "Leipzig",
+		"title": "Katechismus der deutschen Orthographie",
+		"URL": "https://books.google.de/books?id=9hpnBegmHfUC",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1856"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/EQ562PBB",
+		"type": "chapter",
+		"archive": "Google Books",
+		"container-title": "In Luft und Sonne: Künstler und Selbstschriften-Album",
+		"event-place": "Berlin",
+		"publisher": "J. H. Schorer",
+		"publisher-place": "Berlin",
+		"title": "ohne Titel",
+		"URL": "https://books.google.de/books?id=Y5pvsIFi2U4C&pg=PA60",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"literal": "Schorers Familienblatt"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1888"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/AX2L6MW5",
+		"type": "chapter",
+		"archive": "Google Books",
+		"container-title": "Die Schreibmaterialien und die gesamte Papier-Industrie: Eine Studie",
+		"event-place": "Hamburg",
+		"page": "III–V",
+		"publisher": "J. F. Richter",
+		"publisher-place": "Hamburg",
+		"title": "Vorwort",
+		"URL": "https://books.google.de/books?id=2s5XfieXoqYC&pg=PA289",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Raab",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1888"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/EQ562PBB",
+		"type": "chapter",
+		"archive": "Google Books",
+		"container-title": "In Luft und Sonne: Künstler und Selbstschriften-Album",
+		"event-place": "Berlin",
+		"publisher": "J. H. Schorer",
+		"publisher-place": "Berlin",
+		"title": "ohne Titel",
+		"URL": "https://books.google.de/books?id=Y5pvsIFi2U4C&pg=PA60",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"literal": "Schorers Familienblatt"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1888"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/594RG4KU",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Der Bazar: Illustrierte Damen-Zeitung",
+		"issue": "17. Jg., Nr. 20",
+		"note": "Teil 2 von 2",
+		"page": "166",
+		"title": "Volkslieder in Uebertragung",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10943871?page=174",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1871",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/NMGMZQJT",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Der Bazar: Illustrierte Damen-Zeitung",
+		"issue": "17. Jg., Nr. 12",
+		"note": "Teil 1 von 2",
+		"page": "100",
+		"title": "Volkslieder in Uebertragung",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10943871?page=108",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1871",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/IC6IBSTX",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Der Bazar: Illustrierte Damen-Zeitung",
+		"issue": "22. Jg., Nr. 12",
+		"page": "96",
+		"title": "Uebertragungen griechischer Gedichte",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11326186?page=100",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/ACYGKG7D",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Der Bazar: Illustrierte Damen-Zeitung",
+		"issue": "13. Jg, Nr. 2",
+		"note": "Ebenso erschienen unter dem Titel „Unterhaltungen auf sprachlichem Gebiete“ in: Freie Pädagogische Blätter, 16. Jg., Nr. 9, 1882, S. 131–133; ÖNB ANNO: http://data.onb.ac.at/rec/AC02838129.",
+		"page": "15",
+		"title": "Eine Abendunterhaltung auf sprachlichem Gebiet",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10498338?page=22",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1867",
+					1,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/45GNRNYU",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Der Bazar: Illustrierte Damen-Zeitung",
+		"issue": "13. Jg., Nr. 16",
+		"page": "134",
+		"title": "Zweite Abendunterhaltung auf sprachlichem Gebiet",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10498338?page=137",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1867",
+					4,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/YMMHFCHG",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Der Bazar: Illustrierte Damen-Zeitung",
+		"issue": "13. Jg., Nr. 12",
+		"page": "99",
+		"title": "Die richtige Adresse zu einem Gedicht Goethe's",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10498338?page=102",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1867",
+					3,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/QQ2J7FP5",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Literarhistorisches Taschenbuch",
+		"issue": "6. Jg.",
+		"page": "171–225",
+		"title": "Die politische Poesie bei den Neugriechen: eine Skizze",
+		"URL": "https://books.google.de/books?id=kCn4K63Ae6UC&hl=de&pg=PA171",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Prutz",
+				"given": "Eduard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1848"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/HDXJGHWZ",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Magazin für die Literatur des Auslandes",
+		"issue": "43. Jg., Nr. 4",
+		"page": "52–55",
+		"title": "Französische Wörterbücher, von Dr. C. Sachs",
+		"URL": "https://books.google.de/books?id=rnIDAAAAYAAJ&pg=PA52",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lehmann",
+				"given": "Joseph"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Sachs",
+				"given": "Carl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1874",
+					1,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/XR4W76YY",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Zeitschrift für das Gymnasialwesen",
+		"issue": "43. Jg.",
+		"page": "361–372",
+		"title": "A. Eberhards synonymisches Handwörterbuch",
+		"URL": "https://archive.org/details/sokrateszeitsch48berlgoog/page/n382/mode/2up",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Müller",
+				"given": "H. J."
+			},
+			{
+				"family": "Kern",
+				"given": "H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1889"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/H289NJWA",
+		"type": "article-newspaper",
+		"archive": "MDZ",
+		"container-title": "Allgemeine Zeitung",
+		"event-place": "Augsburg",
+		"page": "11–12",
+		"publisher-place": "Augsburg",
+		"section": "Nr. 206",
+		"title": "Deutsche Classiker in englischen Schulen",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb00085444_01167_u001?page=11",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Braun",
+				"given": "Otto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1882",
+					9,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/22722HUT",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Nord und Süd: eine deutsche Monatsschrift",
+		"issue": "H. 134",
+		"note": "Teil 1 u. 2 von 4",
+		"page": "164–187",
+		"title": "Aus der Werkstatt eines Wörterbuchschreibers: Plaudereien",
+		"URL": "https://archive.org/details/NordUndSued1888Bd045/page/164",
+		"volume": "Bd. 45",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1888"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/XS7G6MNL",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Die Deutschen Mundarten: Eine Zeitschrift für Dichtung, Forschung und Kritik",
+		"issue": "1. Jg.",
+		"page": "269–275",
+		"title": "Lieder und Märchen im Dialekt von Mecklenburg-Strelitz",
+		"URL": "https://books.google.de/books?id=DCVpAAAAcAAJ&hl=de&pg=PA269",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Frommann",
+				"given": "Georg Karl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1854"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/JP8XASMS",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "22. Jg.",
+		"page": "44–64",
+		"title": "Programm eines neuen Fremdwörterbuchs",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610825?page=53",
+		"volume": "Bd. 41",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1867"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/82FIK9Z2",
+		"type": "article-newspaper",
+		"archive": "MDZ",
+		"container-title": "Beilage zur Allgemeine Zeitung",
+		"event-place": "Stuttgart/Augsburg",
+		"page": "4909–4910",
+		"publisher-place": "Stuttgart/Augsburg",
+		"title": "Zur Frage der Verbesserung und Vereinheitlichung der deutschen Orthographie",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11382302?page=901",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1879",
+					11,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/8AL3E7GH",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 11",
+		"page": "174",
+		"title": "Notizen",
+		"URL": "https://archive.org/details/diegegenwart.wochenschriftfurliteraturkunstundoffentlichesleben35.1889wisc/page/n183",
+		"volume": "Bd. 35",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Zolling",
+				"given": "Theophil"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Rhangavis",
+				"given": "Alexandros Rhizos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1889",
+					3,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/649CWEJ6",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 46",
+		"page": "318–319",
+		"title": "Notizen",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb11381276?page=322",
+		"volume": "Bd. 16",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Proeltz",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1879",
+					11,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/LNH6KBQX",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 10",
+		"page": "159",
+		"title": "Deutsche Handwerker-Bibliothek",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb11363645?page=165",
+		"volume": "Bd. 13",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Schmidt-Weißenfels",
+				"given": "Eduard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1878",
+					3,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/TKB8AR65",
+		"type": "article-journal",
+		"archive": "HathiTrust Digital Library",
+		"container-title": "Magazin für die Literatur des Auslandes",
+		"issue": "45. Jg., Nr. 40",
+		"note": "Teil 2 von 2;\nebenso erschienen in: Die Gegenwart. Wochenschrift für Literatur, Kunst und öffentliches Leben.",
+		"page": "570–572",
+		"title": "Aus den Erinnerungen eines griechischen Offiziers in dem deutsch-französischen Kriege 1870–1871",
+		"URL": "https://hdl.handle.net/2027/hvd.32044092563915",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Rangabé",
+				"given": "Emil"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876",
+					9,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/MU3KP995",
+		"type": "article-journal",
+		"archive": "HathiTrust Digital Library",
+		"container-title": "Magazin für die Literatur des Auslandes",
+		"issue": "45. Jg., Nr. 39",
+		"note": "Teil 1 von 2;\nebenso erschienen in: Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben.",
+		"page": "556–558",
+		"title": "Aus den Erinnerungen eines griechischen Offiziers in dem deutsch-französischen Kriege 1870–1871",
+		"URL": "https://hdl.handle.net/2027/hvd.32044092563915",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Rangabé",
+				"given": "Emil"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876",
+					9,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/HCWT23FY",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 12",
+		"note": "Ebenso erschienen in: Magazin für die Literatur des Auslandes.",
+		"page": "187–188",
+		"title": "Erinnerungen eines griechischen Officiers an den deutsch-französischen Krieg 1870 u. 71",
+		"URL": "https://books.google.de/books?id=b31lAAAAcAAJ&hl=de&pg=PA187",
+		"volume": "Bd. 7",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1875",
+					3,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/LIADP69K",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die höhere Bürgerschule: Organ zur ausschließlichen Besprechung der Interessen der Real-, höheren Bürger- und Töchterschulen in Deutschland",
+		"issue": "5. Jg.",
+		"page": "278–279",
+		"title": "La France Litéraire: Morceaux choisis de littérature française ancienne et moderne",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10762388?page=286",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Körner",
+				"given": "Friedrich"
+			},
+			{
+				"family": "Vogel",
+				"given": "Carl"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Burguy",
+				"given": "Georges Frédéric"
+			},
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1856"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/Z4BIR7A6",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 44",
+		"page": "285–287",
+		"title": "Zur Geschichte der neugriechischen Literatur",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11350487?page=289",
+		"volume": "Bd. 12",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1877",
+					11,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/SRHXYVQJ",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Magazin für die Literatur des Auslandes",
+		"issue": "47. Jg., Nr. 18",
+		"page": "227",
+		"title": "Kämpf: Das Hohelied",
+		"URL": "https://books.google.de/books?id=d3MDAAAAYAAJ&hl=de&pg=PA277",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lehmann",
+				"given": "Joseph"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Kämpf",
+				"given": "Saul Isaac"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1878",
+					5,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/4PPIFPNL",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Magazin für die Literatur des Auslandes",
+		"issue": "47. Jg., Nr. 24",
+		"page": "366–367",
+		"title": "Kleon R. Rhangawis: Julianus Apostata, dramatisches Gedicht in fünf Acten",
+		"URL": "https://books.google.de/books?id=d3MDAAAAYAAJ&hl=de&pg=PA366",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lehmann",
+				"given": "Joseph"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Rhangawis",
+				"given": "Kleon Rizos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1878",
+					6,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/B9J33LHK",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Deutsche Revue über das gesamte nationale Leben der Gegenwart",
+		"issue": "1. Jg., H. 4",
+		"page": "304–314",
+		"title": "Zur Apposition im Deutschen",
+		"URL": "http://digital.slub-dresden.de/id30167193Z/332",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Fleischer",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1877"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/NP7NKGK7",
+		"type": "article-journal",
+		"archive": "Compact Memory",
+		"container-title": "Kalender und Jahrbuch für Israeliten auf das Jahr 5606",
+		"issue": "4. Jg.",
+		"page": "105–138",
+		"title": "Das Hohe-Lied: in neue Reime übertragen und erklärt",
+		"URL": "https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pageview/3185086",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Busch",
+				"given": "Isidor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1845"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/JZYU4UY2",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Der Klavier-Lehrer: Musik-paedagogische Zeitschrift",
+		"issue": "7. Jg., Nr. 7",
+		"note": "Teil 3 von 4",
+		"page": "73–75",
+		"title": "Erörterung einer grammatischen Frage",
+		"URL": "https://archive.org/details/bub_gb_mCIWAAAAMAAJ/page/n79",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Breslaur",
+				"given": "Emil"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1884",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/ZSN843H6",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Der Klavier-Lehrer: Musik-paedagogische Zeitschrift",
+		"issue": "7. Jg., Nr. 6",
+		"note": "Teil 2 von 4",
+		"page": "61–62",
+		"title": "Erörterung einer grammatischen Frage",
+		"URL": "https://archive.org/details/bub_gb_mCIWAAAAMAAJ/page/n67",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Breslaur",
+				"given": "Emil"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1884",
+					3,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/NKGLAQEZ",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Der Klavier-Lehrer: Musik-paedagogische Zeitschrift",
+		"issue": "7. Jg., Nr. 5",
+		"note": "Teil 1 von 4",
+		"page": "49–51",
+		"title": "Erörterung einer grammatischen Frage",
+		"URL": "https://archive.org/details/bub_gb_mCIWAAAAMAAJ/page/n55",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Breslaur",
+				"given": "Emil"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1884",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/N3MJCI8Y",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Der Klavier-Lehrer: Musik-paedagogische Zeitschrift",
+		"issue": "7. Jg., Nr. 8",
+		"note": "Teil 4 von 4",
+		"page": "87–88",
+		"title": "Erörterung einer grammatischen Frage",
+		"URL": "https://archive.org/details/bub_gb_mCIWAAAAMAAJ/page/n93",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Breslaur",
+				"given": "Emil"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1884",
+					4,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/CLNUKLL8",
+		"type": "article-newspaper",
+		"archive": "Compact Memory",
+		"container-title": "Allgemeine Zeitung des Judenthums: Ein unparteiisches Organ für alles jüdische Interesse",
+		"event-place": "Berlin",
+		"page": "263–264",
+		"publisher-place": "Berlin",
+		"title": "Metrische Nachbildungen",
+		"URL": "http://sammlungen.ub.uni-frankfurt.de/cm/periodical/pageview/3272597",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Karpeles",
+				"given": "Gustav"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1895",
+					5,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/XP5UDN2R",
+		"type": "chapter",
+		"archive": "Google Books",
+		"container-title": "Album: zum Besten des Kaschauer Waisenhauses",
+		"event-place": "Leipzig",
+		"page": "318",
+		"publisher": "Otto Wigand",
+		"publisher-place": "Leipzig",
+		"title": "Das Waisenkind",
+		"URL": "https://books.google.de/books?id=jIh3fXWU3CwC&pg=PA318",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Novelli",
+				"given": "Joseph"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1859"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/22L63355",
+		"type": "article-journal",
+		"archive": "Compact Memory",
+		"container-title": "Kalender und Jahrbuch für Israeliten auf das Schaltjahr (1848) 5608",
+		"issue": "6. Jg.",
+		"note": "Ebenso erschienen in: Für unsere Jugend: Ein Unterhaltungsbuch für israelitische Knaben und Mädchen, Bd. 3, 1926, S. 110–111; Compact Memory: https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/5118886",
+		"page": "180",
+		"title": "Das schönste Glück",
+		"URL": "https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pageview/3185832",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Busch",
+				"given": "Isidor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1847"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/VNYV2ACQ",
+		"type": "chapter",
+		"archive": "Compact Memory",
+		"container-title": "Für unsere Jugend: Ein Unterhaltungsbuch für israelitische Knaben und Mädchen",
+		"event-place": "Frankfurt am Main",
+		"note": "Ein früherer Abdruck lässt sich momentan nicht nachweisen",
+		"page": "17–18",
+		"publisher": "J. Kauffmann",
+		"publisher-place": "Frankfurt am Main",
+		"title": "Der zerfallene Tempel",
+		"URL": "http://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/531625",
+		"volume": "Bd. 3",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gut",
+				"given": "Elias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1926"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/22WKKT8F",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Zeitschrift für mathematischen und naturwissenschaftlichen Unterricht",
+		"issue": "21. Jg.",
+		"note": "Ebenso erschienen in: Zeitschrift für deutsche Sprache, 4. Jg., 1891, S. 117–123; Google Books: https://books.google.de/books?id=j6BBAAAAYAAJ&hl=de&pg=PA117.",
+		"page": "465–471",
+		"title": "Eine sprachliche Studie für Mathematiker",
+		"URL": "https://digital.slub-dresden.de/werkansicht/dlf/102660/489",
+		"volume": "Bd. 21",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Hoffmann",
+				"given": "Immanuel Carl Volkmar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1890"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/JXGSU6FD",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Unsere Zeit: Deutsche Revue der Gegenwart",
+		"issue": "1. Jg., 1. Hälfte",
+		"page": "458–465",
+		"title": "Regelungen zur deutschen Rechtschreibung",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11314715?page=468",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1875"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/LHE3RQAP",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "10. Jg.",
+		"page": "438",
+		"title": "Randglossen",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610801?page=446",
+		"volume": "Bd. 18",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1855"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/94DZFJ4E",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "12. Jg.",
+		"page": "334",
+		"title": "Randglossen",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10811757?page=338",
+		"volume": "Bd. 21",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1857"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/TJR724AY",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "16. Jg.",
+		"page": "356–357",
+		"title": "Randglossen",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610812?page=358",
+		"volume": "Bd. 29",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1861"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/6GE3RR29",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "16. Jg.",
+		"page": "469–470",
+		"title": "Randglossen: Eytmologisches",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610812?page=469",
+		"volume": "Bd. 29",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1861"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/NKZNHXLQ",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "22. Jg.",
+		"page": "221–222",
+		"title": "Randglossen",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610825?page=231",
+		"volume": "Bd. 41",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1867"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/GQLXZAPQ",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "10. Jg.",
+		"page": "102–131",
+		"title": "Von den unpersönlichen Zeitwörtern im Deutschen, mit besonderer Berücksichtigung des Französischen und Englischen",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610801?page=110",
+		"volume": "Bd. 18",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1855"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/CP2HYE9Y",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "12. Jg.",
+		"page": "461–462",
+		"title": "Allerlei",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10811758?page=463",
+		"volume": "Bd. 21",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1857"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/AQH5BW9T",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "9. Jg.",
+		"page": "317–332",
+		"title": "Randglossen",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610798?page=324",
+		"volume": "Bd. 15",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1854"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/IWNEHCW9",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "9. Jg.",
+		"page": "83–88",
+		"title": "Deutsche Klassiker",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610798?page=91",
+		"volume": "Bd. 15",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1854"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/K83297FM",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Illustrirte Zeitung",
+		"issue": "Nr. 1272",
+		"page": "331",
+		"title": "Geflügelte Worte",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb10498740?page=341",
+		"volume": "Bd. 49",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Weber",
+				"given": "Johann Jacob"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Büchmann",
+				"given": "Georg"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1867",
+					11,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/3X5AVQAI",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "8. Jg.",
+		"page": "474–476",
+		"title": "Von Trinkliedern; Rundadinella",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610796?page=482",
+		"volume": "Bd. 13",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1853"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/ZEDSYD8P",
+		"type": "article-newspaper",
+		"archive": "MDZ",
+		"container-title": "Börsenblatt für den deutschen Buchhandel und die mit ihm verwandten Geschäftszweige",
+		"event-place": "Leipzig",
+		"page": "4949",
+		"publisher-place": "Leipzig",
+		"title": "Zur Regelung unserer Rechtschreibung",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11384169?page=141",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1879",
+					11,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/V99NCHP8",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "10. Jg.",
+		"page": "325–326",
+		"title": "Ballade (von Ol. Goldsmith)",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610800?page=335",
+		"volume": "Bd. 17",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1855"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/CE363Y55",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "10. Jg.",
+		"page": "287–295",
+		"title": "Englische Grammatik nebst einer literarischen Einleitung in das Studium der englischen Sprache überhaupt",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610800?page=297",
+		"volume": "Bd. 17",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Schmitz",
+				"given": "Bernhard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1855"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/RTEQC5RL",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Neue Jahrbücher für Philologie und Pädagogik",
+		"issue": "22. Jg.",
+		"page": "262–289",
+		"title": "Lehrbuch für den wissenschaftlichen Unterricht in der englischen Sprache",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10765169?page=262",
+		"volume": "Bd. 64",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Klotz",
+				"given": "Reinhold"
+			},
+			{
+				"family": "Dietsch",
+				"given": "Rudolph"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Fölsing",
+				"given": "Johannes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1852"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/7Y26ZA9V",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Neue Jahrbücher für Philologie und Pädagogik",
+		"issue": "22. Jg.",
+		"page": "157–162",
+		"title": "Lehrbuch der englischen Sprache",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10765170?page=161",
+		"volume": "Bd. 66",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Klotz",
+				"given": "Reinhold"
+			},
+			{
+				"family": "Dietsch",
+				"given": "Rudolph"
+			},
+			{
+				"family": "Fleckeisen",
+				"given": "Alfred"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Fölsing",
+				"given": "Johannes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1852"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/7KYKP4B2",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Der Salon für Literatur, Kunst und Gesellschaft",
+		"page": "411–415",
+		"title": "Nach dreissig Jahren",
+		"URL": "https://archive.org/details/dersalonfrliter02rodegoog/page/n456/mode/2up",
+		"volume": "Bd. 1",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Hirsch",
+				"given": "Franz"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Auerbach",
+				"given": "Berthold"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1877"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/VWEAHIJW",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "24. Jg.",
+		"page": "94–95",
+		"title": "Sebastian Franci de Pythagora ejusquesymbolis disputatio commentatio illustrata",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610828?page=104",
+		"volume": "Bd. 44",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Latendorf",
+				"given": "Friedrich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1869"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/TLFLS5KS",
+		"type": "article-journal",
+		"archive": "DigiZeitschriften",
+		"container-title": "Serapeum: Zeitschrift für Bibliothekwissenschaft, Handschriftenkunde und ältere Litteratur",
+		"issue": "20. Jg., Nr. 4",
+		"page": "63–64",
+		"title": "Nachtrag",
+		"URL": "https://resolver.sub.uni-goettingen.de/purl?PPN342672002_0020",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Naumann",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1859"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/C7NAU2Z6",
+		"type": "article-newspaper",
+		"archive": "MDZ",
+		"container-title": "Neue Freie Presse: Abendblatt",
+		"event-place": "Wien",
+		"page": "4",
+		"publisher-place": "Wien",
+		"section": "Nr. 3545",
+		"title": "Reden und Abhandlungen von Justus v. Liebig",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11175544?page=168",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1874",
+					7,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/WI9F9FE4",
+		"type": "article-newspaper",
+		"archive": "MDZ",
+		"container-title": "Neue Freie Presse: Abendblatt",
+		"event-place": "Wien",
+		"page": "4",
+		"publisher-place": "Wien",
+		"section": "Nr. 3533",
+		"title": "Zur einheitlichen deutschen Rechtschreibung",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11175541?page=450",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1874",
+					6,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/823DIR3J",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "10. Jg.",
+		"page": "212–220",
+		"title": "Zur deutschen Lexikographie I: Wörter, welche in dem deutschen Wörterbuche von Jakob Grimm und Wilhelm Grimm auf den ersten 161 Spaten (A — Ach) fehlen",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610801?page=220",
+		"volume": "Bd. 18",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1855"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/UFIDQNRP",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "11. Jg.",
+		"page": "60–82",
+		"title": "Lexikographische Studien",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610803?page=64",
+		"volume": "Bd. 20",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1856"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/2V6X3EEP",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 28",
+		"page": "24–27",
+		"title": "In Betreff der orthographischen Reform. Zunächst für den Journalistentag",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11326197?page=29",
+		"volume": "Bd. 10",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/KL7IHGMK",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 9",
+		"language": "deutsch",
+		"page": "134–135",
+		"title": "Warnung vor einer grammatischen und einer stilistischen Ungehörigkeit",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10943909?page=144",
+		"volume": "Bd. 3",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1873",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/PLH6ZBUA",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 18",
+		"page": "278–279",
+		"title": "Zu den Verhandlungen der orthographischen Conferenz",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11326196?page=282",
+		"volume": "Bd. 9",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876",
+					4,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/DAY4HRMT",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 23",
+		"page": "357–359",
+		"title": "Ueber die deutsche Rechtschreibung und meinen Standpunkt zu ihrer Regelung und Feststellung",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11326196?page=361",
+		"volume": "Bd. 9",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876",
+					6,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/X7KMX3SW",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 16",
+		"page": "251–252",
+		"title": "Verhandlungen der zur Herstellung größerer Einigung in der Deutschen Rechtschreibung berufenen Konferenz",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11326196?page=255",
+		"volume": "Bd. 9",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876",
+					4,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/FPABNS4G",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 5",
+		"page": "74–75",
+		"title": "Variationen über ein Gutzkow'sches Thema",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11326196?page=78",
+		"volume": "Bd. 9",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Gutzkow",
+				"given": "Karl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876",
+					1,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/RMRQYCVV",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 3",
+		"language": "deutsch",
+		"page": "40–41",
+		"title": "Variationen über ein Gutzkow'sches Thema",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11326196?page=44",
+		"volume": "Bd. 9",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Gutzkow",
+				"given": "Karl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876",
+					1,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/G9JAQ2IN",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Oesterreichisches Central-Organ für Glaubensfreiheit, Cultur, Geschichte und Literatur der Juden",
+		"issue": "Nr. 16",
+		"page": "204–205",
+		"title": "Fragmente",
+		"URL": "https://books.google.de/books?id=4cReAAAAcAAJ&hl=de&pg=PA204",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Busch",
+				"given": "Isidor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1848",
+					7,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/NFL878WC",
+		"type": "article-journal",
+		"archive": "Compact Memory",
+		"container-title": "Kalender und Jahrbuch für Israeliten auf das Schaltjahr (1848) 5608",
+		"issue": "6. Jg.",
+		"page": "260–268",
+		"title": "Die neugriechische Volkspoesie und die Juden",
+		"URL": "https://sammlungen.ub.uni-frankfurt.de/cm/periodical/pageview/3185910",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Busch",
+				"given": "Isidor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1847"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/BSAH9QQZ",
+		"type": "article-journal",
+		"archive": "HathiTrust",
+		"container-title": "Jahrbücher für wissenschaftliche Kritik",
+		"issue": "Nr. 99",
+		"note": "Der rezensierte Autor, Christofanous Neologidou (Χριστοφάνους Νεολογίδου), ist Aléxandros Rízos Rhankaves (Αλέξανδρος Ρίζος Ῥαγκαβής)",
+		"page": "772–790",
+		"title": "Του Κουτρούλη ο γάμος, κωμωδία υπό Χριστοφάνους Νεολογίδου. Εν Άθήναις 1845",
+		"URL": "https://hdl.handle.net/2027/hvd.32044092629906",
+		"volume": "Bd. 1",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"literal": "Soecietät für wissenschaftliche Kritik zu Berlin"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Rangabé",
+				"given": "Alexandros Rhizos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1845"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/ZUMLPTV5",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Oesterreichisches Central-Organ für Glaubensfreiheit, Cultur, Geschichte und Literatur der Juden",
+		"issue": "Nr. 12",
+		"page": "161",
+		"title": "An den Kaiser von Rußland",
+		"URL": "https://books.google.de/books?id=4cReAAAAcAAJ&hl=de&pg=PA161",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Busch",
+				"given": "Isidor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1848",
+					6,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/WNR6JQFY",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Oesterreichisches Central-Organ für Glaubensfreiheit, Cultur, Geschichte und Literatur der Juden",
+		"issue": "Nr. 13",
+		"page": "173",
+		"title": "Beruf der Juden",
+		"URL": "https://books.google.de/books?id=4cReAAAAcAAJ&hl=de&pg=PA173",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Busch",
+				"given": "Isidor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1848",
+					6,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/38NRIAM4",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Oesterreichisches Central-Organ für Glaubensfreiheit, Cultur, Geschichte und Literatur der Juden",
+		"issue": "Nr. 27",
+		"page": "273–275",
+		"title": "Die Volkspoesie und die Juden",
+		"URL": "https://books.google.de/books?id=4cReAAAAcAAJ&hl=de&pg=PA273",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Busch",
+				"given": "Isidor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1848",
+					8,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/L25VAQBN",
+		"type": "chapter",
+		"archive": "Google Books",
+		"event-place": "Berlin",
+		"publisher": "Schlesinger'sche Buch- und Musikhandlung",
+		"publisher-place": "Berlin",
+		"container-title": "Germaniens Völkerstimmen: Sammlung der deutschen Mundarten in Dichtungen, Sagen, Mährchen, Volksliedern usw.",
+		"page": "76–87",
+		"title": "Aeltere Gedichte",
+		"URL": "https://books.google.de/books?id=TuI7AQAAIAAJ&hl=de&pg=PA76",
+		"volume": "Bd. 3",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Firmenich",
+				"given": "Johannes Matthias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1854"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/EBSDUQYE",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "15. Jg.",
+		"page": "228–234",
+		"title": "Einige Bemerkungen über die Fügungen des deutschen Hilfszeitworts lassen",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10610810?page=232",
+		"volume": "Bd. 27",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1860"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/RWGQXLHU",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Deutsche Jahrbücher für Politik und Literatur",
+		"page": "305–312",
+		"title": "Mundartliche niederdeutsche Dichtungen (Fritz Reuter und Klaus Groth)",
+		"URL": "https://books.google.de/books?id=TdcVAAAAYAAJ&pg=PA305",
+		"volume": "Bd. 1",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1861"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/5969TLDF",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Magazin für die Literatur des Auslandes",
+		"issue": "39. Jg., Nr. 2",
+		"page": "25",
+		"title": "Ein französisches Wörterbuch neuer Art",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb10485151_00027_u001?page=9",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lehmann",
+				"given": "Joseph"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1870",
+					1,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/CVEXA2I2",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Magazin für die Literatur des Auslandes",
+		"issue": "40. Jg., Nr. 40",
+		"page": "570",
+		"title": "Adolf Stahr: kleinere Schriften",
+		"URL": "http://opacplus.bsb-muenchen.de/title/3222131/ft/bsb10928987?page=570",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lehmann",
+				"given": "Joseph"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1871",
+					10,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/EJIIJL9H",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Magazin für die Literatur des Auslandes",
+		"issue": "40. Jg., Nr. 17",
+		"page": "242",
+		"title": "Englisch-deutsches Supplement-Lexikon",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10928987?page=252",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lehmann",
+				"given": "Joseph"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1871",
+					4,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/FVH8LKYM",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 47",
+		"note": "Schluß",
+		"page": "374–378",
+		"title": "Vorschläge zur Feststellung einer einheitlichen Rechtschreibung für Alldeutschland",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10943906?page=380",
+		"volume": "Bd. 2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1872",
+					12,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/HGAJGA48",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 43",
+		"note": "Einleitung: An das deutsche Volk, Deutschlands Vertreter und Schulmänner",
+		"page": "313",
+		"title": "Vorschläge zur Feststellung einer einheitlichen Rechtschreibung für Alldeutschland",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10943906?page=319",
+		"volume": "Bd. 2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1872",
+					11,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/FXLYV3SZ",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 44",
+		"note": "Kapitel 1: In Betreff der Schriftzeichen oder Lettern",
+		"page": "329–331",
+		"title": "Vorschläge zur Feststellung einer einheitlichen Rechtschreibung für Alldeutschland",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10943906?page=335",
+		"volume": "Bd. 2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1872",
+					11,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/S7IH3VPX",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 45",
+		"note": "Kapitel 2: In Betreff des Tremas zur Verdeutschung der Aussprache",
+		"page": "347–348",
+		"title": "Vorschläge zur Feststellung einer einheitlichen Rechtschreibung für Alldeutschland",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10943906?page=343",
+		"volume": "Bd. 2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1872",
+					11,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/L9GWUYZD",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "28. Jg.",
+		"page": "79–100",
+		"title": "Zur deutschen Rechtschreibung",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11045515?page=89",
+		"volume": "Bd. 51",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1873"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/CIDLUQ3F",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 31",
+		"note": "Sanders nimmt hier Stellung zu einer Äußerung von Kl. Groth hisichtlich des von ihm gebrauchten Begriffs \"Alldeutschland\", in: Die Gegenwart, Nr. 6, Bd. 5, 1874, S. 88, MDZ: https://www.digitale-sammlungen.de/en/view/bsb11176106?page=94",
+		"page": "75–167",
+		"title": "In Sachen einer einheitlichen deutschen Rechtschreibung nebst einer kurzen sprachlichen Auseinandersetzung über das Wort „Alldeutschland“",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11176107?page=79",
+		"volume": "Bd. 6",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1874",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/ZUMBHSDQ",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Der Salon für Literatur, Kunst und Gesellschaft",
+		"page": "670–678",
+		"title": "Vorschläge zur Feststellung einer einheitlichen Rechtschreibung für Alldeutschland: An das deutsche Volk, Deutschlands Vertreter und Schulmänner",
+		"URL": "https://archive.org/details/bub_gb_nf80AAAAMAAJ/page/n745/mode/2up",
+		"volume": "Bd. 1",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Rodenberg",
+				"given": "Julius"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1874"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/I4Y9TZ38",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "30. Jg.",
+		"page": "151–156",
+		"title": "Belag oder Beleg, Beläge oder Belege?",
+		"URL": "https://archive.org/details/ArchivFurDasStudiumDerNeuerenSprachen55/page/n163",
+		"volume": "Bd. 55",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/XLQ52QYP",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Deutsches Postarchiv: Beihefte zum Amtsblatt der Deutschen Reichs-Postverwaltung",
+		"issue": "3. Jg., Nr. 19",
+		"page": "491–494",
+		"title": "Belag oder Beleg, Beläge oder Belege?",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11316559?page=283",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"literal": "Kaiserliches General-Postamt zu Berlin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1875"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/Z4RGLYQ2",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Unsere Zeit: Deutsche Revue der Gegenwart",
+		"issue": "1. Jg., 1. Hälfte",
+		"page": "783–793",
+		"title": "Die Fremdwörter in der deutschen Sprache und ihre Verdeutschung",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11314715?page=793",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1875"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/GRV4CA2Q",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Deutsches Postarchiv: Beihefte zum Amtsblatt der Deutschen Reichs-Postverwaltung",
+		"issue": "3. Jg., Nr. 16",
+		"page": "596–597",
+		"title": "Packet oder Paket?",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11316559?page=388",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"literal": "Kaiserliches General-Postamt zu Berlin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1875"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/2VANKICM",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 37",
+		"page": "165–167",
+		"title": "Plauderei über die Regelung und Feststellung der deutschen Sprache, zunächst der deutschen Rechtschreibung",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb11307628?page=169",
+		"volume": "Bd. 8",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1875",
+					9,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/NTZXMIU8",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Der Salon für Literatur, Kunst und Gesellschaft",
+		"note": "Teil 1 von 3",
+		"page": "795–805",
+		"title": "Die deutsche Rechtschreibung und die Berliner orthographische Konferenz",
+		"URL": "https://archive.org/details/bub_gb_BgQ1AAAAMAAJ/page/n37/mode/2up",
+		"volume": "Bd. 2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Hirsch",
+				"given": "Franz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/YQ8Y5AK5",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Der Salon für Literatur, Kunst und Gesellschaft",
+		"note": "Teil 2 von 3",
+		"page": "941–948",
+		"title": "Die deutsche Rechtschreibung und die Berliner orthographische Konferenz",
+		"URL": "https://archive.org/details/bub_gb_BgQ1AAAAMAAJ/page/n195/mode/2up",
+		"volume": "Bd. 2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Hirsch",
+				"given": "Franz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/EMLXZJPQ",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Der Salon für Literatur, Kunst und Gesellschaft.",
+		"note": "Teil 3 von 3",
+		"page": "1087–1094",
+		"title": "Die deutsche Rechtschreibung und die Berliner orthographische Konferenz",
+		"URL": "https://archive.org/details/bub_gb_BgQ1AAAAMAAJ/page/n355/mode/2up",
+		"volume": "Bd. 2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Hirsch",
+				"given": "Franz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/2GV7R7YZ",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Daheim: ein deutsches Familienblatt mit Illustrationen",
+		"issue": "12. Jg., Nr. 23",
+		"page": "364–368",
+		"title": "Für und wider die neue deutsche Rechtschreibung: I. Wider die neue Rechtschreibung",
+		"URL": "https://books.google.de/books?id=P_8aH5Pm9ZEC&pg=PA364",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Koenig",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/PJBYCUWJ",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Jahrbuch für Gesetzgebung, Verwaltung und Rechtspflege des Deutschen Reichs",
+		"issue": "4. Jg.",
+		"page": "214–218",
+		"title": "Zur Regelung der deutschen Rechtschreibung",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11334308?page=224",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Holtzendorff von",
+				"given": "Franz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/G3VQL49Q",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Westermann’s illustrirte deutsche Monats-Hefte",
+		"page": "256–265",
+		"title": "Die orthographische Frage",
+		"URL": "https://books.google.de/books?id=jiwVAAAAYAAJ&hl=de&pg=PA256",
+		"volume": "Bd. 48",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Spielhagen",
+				"given": "Friedrich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1880"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/CUV67PSD",
+		"type": "article-newspaper",
+		"archive": "MDZ",
+		"container-title": "Beilage zur Allgemeine Zeitung",
+		"event-place": "Augsburg",
+		"page": "11–12",
+		"publisher-place": "Augsburg",
+		"section": "Nr. 42",
+		"title": "Preußische Schulorthographie",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb00085422_00605_u001?page=11",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Braun",
+				"given": "Otto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1880",
+					2,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/SX7C8CFV",
+		"type": "article-newspaper",
+		"archive": "ZEFYS Staatsbibliothek Berlin",
+		"container-title": "Deutsches Montags-Blatt",
+		"event-place": "Berlin",
+		"note": "Beiblatt zum Berliner Tageblatt und Handels-Zeitung",
+		"page": "3",
+		"publisher-place": "Berlin",
+		"section": "4. Jg., Nr. 19",
+		"title": "Zur Erinnerung an Heinrich Bernhard Oppenheim",
+		"URL": "http://zefys.staatsbibliothek-berlin.de/list/title/zdb/27646518/-/1880",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Levysohn",
+				"given": "Arthur"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1880",
+					5,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/HELXGCGM",
+		"type": "article-newspaper",
+		"archive": "MDZ",
+		"container-title": "Allgemeine Zeitung",
+		"event-place": "Augsburg",
+		"page": "11",
+		"publisher-place": "Augsburg",
+		"section": "Nr. 161",
+		"title": "Gedichte von Ernst Ziel",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb00085438_00125_u001?page=11",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Braun",
+				"given": "Otto"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Ziel",
+				"given": "Ernst"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1881",
+					6,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/8GAK2IRH",
+		"type": "article-newspaper",
+		"archive": "MDZ",
+		"container-title": "Beilage zur Allgemeine Zeitung",
+		"event-place": "München",
+		"page": "10–11",
+		"publisher-place": "München",
+		"section": "Nr. 249",
+		"title": "Parisismen",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb00085466_00685_u001?page=9",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Braun",
+				"given": "Otto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1883",
+					9,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/P8PY7AGK",
+		"type": "article-journal",
+		"archive": "Wikisource",
+		"container-title": "Die Gartenlaube: Illustrirtes Familienblatt",
+		"issue": "Nr. 21",
+		"page": "346–348",
+		"title": "Ueber die Erlernung fremder Sprachen aus Büchern",
+		"URL": "https://de.wikisource.org/wiki/Ueber_die_Erlernung_fremder_Sprachen_aus_B%C3%BCchern",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Ziel",
+				"given": "Ernst"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1883"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/E9PQTJC9",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Westermann’s illustrirte deutsche Monats-Hefte",
+		"issue": "28. Jg.",
+		"page": "423–424",
+		"title": "Ein neugriechisches Jahrbuch",
+		"URL": "https://books.google.de/books?id=5ikVAAAAYAAJ&hl=de&pg=PA423",
+		"volume": "Bd. 55",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Spielhagen",
+				"given": "Friedrich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1884"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/75VAB5Q9",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "39. Jg.",
+		"page": "446–467",
+		"title": "Ein Verdeutschungswörterbuch",
+		"URL": "https://archive.org/details/archivfrdasstu73brauuoft/page/466/",
+		"volume": "Bd. 73",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1885"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/YFYW9T7X",
+		"type": "article-newspaper",
+		"archive": "MDZ",
+		"container-title": "Beilage zur Allgemeine Zeitung",
+		"event-place": "München",
+		"page": "2122–2124",
+		"publisher-place": "München",
+		"section": "Nr. 145",
+		"title": "Rudolf Kleinpaul: Menschen- und Völkernamen",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb00085475_00977_u001?page=10",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Braun",
+				"given": "Otto"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Kleinpaul",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1885",
+					5,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/H8P9WMKZ",
+		"type": "article-journal",
+		"archive": "Wikisource",
+		"container-title": "Die Gartenlaube: Illustrirtes Familienblatt",
+		"issue": "Nr. 13",
+		"page": "236",
+		"title": "Speisekarte oder Speisenkarte?",
+		"URL": "https://de.wikisource.org/wiki/Seite:Die_Gartenlaube_(1886)_236.jpg",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Kröner",
+				"given": "Adolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1886"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/GAXMNXPZ",
+		"type": "article-journal",
+		"archive": "Wikisource",
+		"container-title": "Die Gartenlaube: Illustrirtes Familienblatt",
+		"issue": "Nr. 26",
+		"page": "459",
+		"title": "Zur Sprachreinigung",
+		"URL": "https://de.wikisource.org/wiki/Die_Gartenlaube_(1886)/Heft_26#Bl%C3%A4tter_und_Bl%C3%BCthen.",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Keil",
+				"given": "Ernst"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1886"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/IAC9XX4G",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Nord und Süd: eine deutsche Monatsschrift",
+		"issue": "H. 155",
+		"note": "Teil 3 von 4",
+		"page": "222–235",
+		"title": "Aus der Werkstatt eines Wörterbuchschreibers: Plaudereien: III. Zwischenplauderei",
+		"URL": "https://archive.org/details/NordUndSued1890Bd052/page/221",
+		"volume": "Bd. 52",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1890"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/GAUSDSSE",
+		"type": "article-journal",
+		"archive": "Wikisource",
+		"container-title": "Die Gartenlaube: Illustrirtes Familienblatt",
+		"issue": "Nr. 18",
+		"note": "Teil 1 von 7",
+		"page": "575",
+		"title": "Denksprüche von D. Sanders",
+		"URL": "https://de.wikisource.org/wiki/Denkspr%C3%BCche_von_D._Sanders_(Die_Gartenlaube_1890/18)",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Kröner",
+				"given": "Adolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1890"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/XPZZS9JL",
+		"type": "article-journal",
+		"archive": "Wikisource",
+		"container-title": "Die Gartenlaube: Illustrirtes Familienblatt",
+		"issue": "Nr. 13",
+		"note": "Teil 4 von 7",
+		"page": "204",
+		"title": "Denksprüche",
+		"URL": "https://de.wikisource.org/wiki/Denkspr%C3%BCche_von_D._Sanders/Denkspr%C3%BCche_(Die_Gartenlaube_1891/13)",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Kröner",
+				"given": "Adolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1891"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/R868VEQH",
+		"type": "article-journal",
+		"archive": "Compact Memory",
+		"container-title": "Im deutschen Reich: Zeitschrift des Centralvereins Deutscher Staatsbürger Jüdischen Glaubens",
+		"issue": "1. Jg., Nr. 2",
+		"page": "68–70",
+		"title": "Ein Schwank von Hans Sachs dem Jüngeren",
+		"URL": "http://sammlungen.ub.uni-frankfurt.de/cm/periodical/pageview/2317411",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1895"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/BDJQSUPG",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Die Gegenwart: Wochenschrift für Literatur, Kunst und öffentliches Leben",
+		"issue": "Nr. 39",
+		"page": "205",
+		"title": "Deutsche Uebersetzungen",
+		"URL": "https://books.google.de/books?id=BuHQ3Sw3a3MC&pg=PA206",
+		"volume": "Bd. 10",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lindau",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1876",
+					9,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/8XBSLPFM",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Unterhaltungen am häuslichen Herd",
+		"issue": "Nr. 6",
+		"page": "92–94",
+		"title": "Zur Kritik unserer Goethe-Ausgaben",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10616956?page=104",
+		"volume": "Bd. 2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gutzkow",
+				"given": "Karl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1857"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/Y6725APK",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Der Salon für Literatur, Kunst und Gesellschaft",
+		"page": "97–100",
+		"title": "Ueber ein stilistisches Hilfsmittel: das „Gegenbuch zum deutschen Wörterbuch“",
+		"URL": "https://archive.org/details/bub_gb_tf00AAAAMAAJ/page/n115/mode/2up",
+		"volume": "Bd. 1",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Rodenberg",
+				"given": "Julius"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1873"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/I4ZZCW6I",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Deutsche Revue über das gesamte nationale Leben der Gegenwart",
+		"issue": "14. Jg.",
+		"page": "89–94",
+		"title": "Titel-Wesen oder -Unwesen im Deutschen: eine Plauderei",
+		"URL": "http://digital.slub-dresden.de/id30162477Z/101",
+		"volume": "Bd. 4",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Fleischer",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1889"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/GB9BHT4Q",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Magazin für die Literatur des Auslandes",
+		"issue": "42. Jg., Nr. 33",
+		"page": "492",
+		"title": "ohne Titel",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10937150?page=502",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lehmann",
+				"given": "Joseph"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1873",
+					8,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/PD8EUSBM",
+		"type": "article-journal",
+		"archive": "ÖNB ANNO",
+		"container-title": "Illustrirte Zeitung",
+		"issue": "Nr. 1409",
+		"page": "9",
+		"title": "Fraktur oder Antiqua?",
+		"URL": "https://anno.onb.ac.at/cgi-content/anno?aid=izl&datum=18700702&seite=7",
+		"volume": "Bd. 55",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Weber",
+				"given": "Johann Jacob"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1870",
+					7,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/NY9WLMN8",
+		"type": "article-journal",
+		"archive": "MDZ",
+		"container-title": "Unterhaltungen am häuslichen Herd",
+		"issue": "Nr. 15",
+		"page": "292–293",
+		"title": "Eine kleine Anmerkung zu einer Stelle bei Shakspeare",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb10616951?page=304",
+		"volume": "Bd. 3",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gutzkow",
+				"given": "Karl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1861"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/KV2XSGR4",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Archiv für das Studium der neueren Sprachen und Literaturen",
+		"issue": "10. Jg.",
+		"page": "337–339",
+		"title": "Buch der Sinnsprüche: eine Konkordanz poetischer Sinnsprüche des Morgen- und Abendlandes(,) gesammelt von W. K., mit einem Vorwort von W. Wackernagel. Leipzig, 1853",
+		"URL": "https://archive.org/details/archivfrdasstu16brauuoft/page/337",
+		"volume": "Bd. 16",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Herrig",
+				"given": "Ludwig"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Koner",
+				"given": "Wilhelm"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1854"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/S6PJFYYG",
+		"type": "article-journal",
+		"archive": "Internet Archive",
+		"container-title": "Zeitschrift für deutsche Sprache",
+		"note": "Teil 4 von 4",
+		"page": "443–456",
+		"title": "Ältere Mittheilungen aus meinem Schreibpult",
+		"URL": "https://archive.org/details/bub_gb_aNoRAAAAIAAJ/page/n451/mode/2up",
+		"volume": "10. Jg.",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1897"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/DJZJVMQR",
+		"type": "article-newspaper",
+		"archive": "Google Books",
+		"container-title": "Beilage zur Allgemeine Zeitung",
+		"event-place": "Stuttgart/Augsburg",
+		"page": "489–491; 507–508",
+		"publisher-place": "Stuttgart/Augsburg",
+		"title": "Lessings „Nathan“ und Schillers „Tell“ in neugriechischer Uebersetzung von A. R. Rangabé",
+		"URL": "https://books.google.de/books?id=hww-P71kfiwC&hl=de&pg=PA489",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Rhangavis",
+				"given": "Alexandros Rhizos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1881",
+					2,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/B9KXUDKI",
+		"type": "chapter",
+		"archive": "ÖNB ANNO",
+		"container-title": "Libanon: Ein poetisches Familienbuch",
+		"page": "265",
+		"title": "Volkslied",
+		"URL": "http://data.onb.ac.at/rep/107E7369",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Frankl",
+				"given": "Ludwig August"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1855"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/LZYE9WDA",
+		"type": "article-journal",
+		"archive": "ETH Zürich",
+		"container-title": "Die Deutschen Mundarten: Eine Zeitschrift für Dichtung, Forschung und Kritik",
+		"issue": "6. Jg.",
+		"note": "Der Aufsatz erschien anonym, lediglich unter dem Auorenkürzel \"D.\". Für die Bewerggründe s.: Sanders, Daniel: Brief an Georg Karl Frommann. Altstrelitz, 7. Januar 1859, S. [1r]. In: Deutsches Textarchiv <https://www.deutschestextarchiv.de/sanders_frommann_1859/1>",
+		"page": "221–225",
+		"title": "Einwirkungen der Juden auf deutsche Sprache und deutsches Volkslied",
+		"URL": "https://doi.org/10.5169/seals-180173",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Frommann",
+				"given": "Georg Karl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1859"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/QWLPJA8F",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Deutsche Revue über das gesamte nationale Leben der Gegenwart",
+		"issue": "20. Jg.",
+		"page": "106–110",
+		"title": "Ueber die Verwendung von Fremdwörtern im Deutschen",
+		"URL": "http://digital.slub-dresden.de/id30171809Z/118",
+		"volume": "Bd. 2",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Fleischer",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1895"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/FU3I3GFE",
+		"type": "article-journal",
+		"archive": "Wikisource",
+		"container-title": "Die Gartenlaube: Illustrirtes Familienblatt",
+		"issue": "Nr. 81",
+		"note": "Teil 5 von 7",
+		"page": "528",
+		"title": "Denksprüche",
+		"URL": "https://de.wikisource.org/wiki/Denkspr%C3%BCche_von_D._Sanders/Denkspr%C3%BCche_(Die_Gartenlaube_1891/31)",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Kröner",
+				"given": "Adolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1891"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/TDP9K7QQ",
+		"type": "article-journal",
+		"archive": "Wikisource",
+		"container-title": "Die Gartenlaube: Illustrirtes Familienblatt",
+		"issue": "Nr. 39",
+		"note": "Teil 6 von 7",
+		"page": "665",
+		"title": "Denksprüche",
+		"URL": "https://de.wikisource.org/wiki/Denkspr%C3%BCche_von_D._Sanders/Denkspr%C3%BCche_(Die_Gartenlaube_1891/39)",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Kröner",
+				"given": "Adolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1891"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/MFUD4626",
+		"type": "article-journal",
+		"archive": "Wikisource",
+		"container-title": "Die Gartenlaube: Illustrirtes Familienblatt",
+		"issue": "Nr. 6",
+		"note": "Teil 7 von 7",
+		"page": "92",
+		"title": "Denksprüche",
+		"URL": "https://de.wikisource.org/wiki/Denkspr%C3%BCche_von_D._Sanders/Denkspr%C3%BCche_(Die_Gartenlaube_1891/6)",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Kröner",
+				"given": "Adolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1891"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/LCZBT5SR",
+		"type": "article-journal",
+		"archive": "Wikisource",
+		"container-title": "Die Gartenlaube: Illustrirtes Familienblatt",
+		"issue": "Nr. 22",
+		"note": "Teil 2 von 7",
+		"page": "688",
+		"title": "Denksprüche",
+		"URL": "https://de.wikisource.org/wiki/Denkspr%C3%BCche_von_D._Sanders_(Die_Gartenlaube_1890/22)",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Kröner",
+				"given": "Adolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1890"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/Y9WBTXC8",
+		"type": "article-journal",
+		"archive": "Wikisource",
+		"container-title": "Die Gartenlaube: Illustrirtes Familienblatt",
+		"issue": "Nr. 28",
+		"note": "Teil 3 von 7",
+		"page": "895",
+		"title": "Denksprüche",
+		"URL": "https://de.wikisource.org/wiki/Denkspr%C3%BCche_von_D._Sanders_(Die_Gartenlaube_1890/28)",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Kröner",
+				"given": "Adolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1890"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/LSCJ2HXS",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Blätter für literarische Unterhaltung",
+		"issue": "Nr. 7",
+		"page": "108–110",
+		"title": "Zur deutschen Aussprache",
+		"URL": "http://digital.slub-dresden.de/id390927252-18830000/114",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gottschall von",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1883",
+					2,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/TVYEDHH4",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Blätter für literarische Unterhaltung",
+		"issue": "Nr. 27",
+		"page": "425–430",
+		"title": "Vermischte Schriften",
+		"URL": "http://digital.slub-dresden.de/id390927252-18840000/442",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gottschall von",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1884",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/EJ4CDUN4",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Blätter für literarische Unterhaltung",
+		"issue": "Nr. 7",
+		"page": "107",
+		"title": "Werke von Claudius",
+		"URL": "http://digital.slub-dresden.de/id390927252-18840000/115",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gottschall von",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1884",
+					2,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/T73FVBP9",
+		"type": "article-newspaper",
+		"archive": "MDZ",
+		"container-title": "Beilage zur Allgemeine Zeitung",
+		"event-place": "München",
+		"page": "5129–5130",
+		"publisher-place": "München",
+		"section": "Nr. 347",
+		"title": "Heine’s Prosa",
+		"URL": "https://www.digitale-sammlungen.de/de/view/bsb11483874?page=1371",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Braun",
+				"given": "Otto"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Kleinpaul",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1885",
+					12,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/E56WXDK6",
+		"type": "article-newspaper",
+		"archive": "MDZ",
+		"container-title": "Beilage zur Allgemeine Zeitung",
+		"event-place": "München",
+		"page": "5065–5068",
+		"publisher-place": "München",
+		"section": "Nr. 344",
+		"title": "Zur einheitlichen deutschen Rechtschreibung",
+		"URL": "https://digitale-sammlungen.de/de/view/bsb11382309?page=1045",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Braun",
+				"given": "Otto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1879",
+					12,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/8Q8DF5DF",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Blätter für literarische Unterhaltung",
+		"issue": "Nr. 51",
+		"page": "812",
+		"title": "Rumänische Märchen",
+		"URL": "http://digital.slub-dresden.de/id390927252-18820000/834",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gottschall von",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1882",
+					12,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/TABL76T8",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Blätter für literarische Unterhaltung",
+		"issue": "Nr. 39",
+		"page": "621–622",
+		"title": "Ueber den Ursprung der Sprache",
+		"URL": "http://digital.slub-dresden.de/id390927252-18770000/643",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gottschall von",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1877",
+					9,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/Z9IS66EK",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Blätter für literarische Unterhaltung",
+		"issue": "Nr. 25",
+		"page": "398–399",
+		"title": "Zur deutschen Culturgeschichte",
+		"URL": "http://digital.slub-dresden.de/id390927252-18830000/404",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gottschall von",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1883",
+					6,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/L5UA6UZC",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Blätter für literarische Unterhaltung",
+		"issue": "Nr. 43",
+		"note": "Teil 2 von 2",
+		"page": "679–683",
+		"title": "Schriften über Orthographie und deutsche Sprache",
+		"URL": "https://digital.slub-dresden.de/werkansicht/dlf/90269/705",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gottschall von",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1877",
+					10,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/TCFGVGYC",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Blätter für literarische Unterhaltung",
+		"issue": "Nr. 42",
+		"note": "Teil 1 von 2",
+		"page": "657–662",
+		"title": "Schriften über Orthographie und deutsche Sprache",
+		"URL": "https://www.digitale-sammlungen.de/view/bsb11351327?page=669",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gottschall von",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1877",
+					10,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/MWKH8DFL",
+		"type": "article-journal",
+		"archive": "Google Books",
+		"container-title": "Zeitschrift für Völkerpsychologie und Sprachwissenschaft",
+		"note": "im Vorwort seiner \"Neugriechischen Grammatik\" geht Jeannarakis auf die ihm durch Sanders vorgelegten Mängel in seiner Schrift \"Kreta’s Volkslieder\" ein; Google Books: https://books.google.de/books?id=zQ8JAAAAQAAJ&hl=de&pg=PA15-IA5",
+		"page": "402–433",
+		"title": "Neue Sammlung neugriechischer Lieder",
+		"URL": "https://books.google.de/books?id=1DL18yRTDNwC&pg=PA402",
+		"volume": "Bd. 9",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lazarus",
+				"given": "Moritz"
+			},
+			{
+				"family": "Steinthal",
+				"given": "Heymann"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Jeannarakis",
+				"given": "Antonios"
+			},
+			{
+				"family": "Luber",
+				"given": "Alois"
+			},
+			{
+				"family": "Nicolai",
+				"given": "Rudolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1877"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6499868/items/3UEK97ZD",
+		"type": "article-journal",
+		"archive": "SLUB Dresden",
+		"container-title": "Deutsche Revue über das gesamte nationale Leben der Gegenwart",
+		"issue": "10. Jg.",
+		"page": "206–209",
+		"title": "Der Zopf in der Amtssprache",
+		"URL": "http://digital.slub-dresden.de/id30168191Z/222",
+		"volume": "Bd. 1",
+		"author": [
+			{
+				"family": "Sanders",
+				"given": "Daniel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Fleischer",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1885"
+				]
+			]
+		}
+	}
+]
