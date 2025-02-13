@@ -42,7 +42,8 @@
   sgoettel, 2025.
 ===============================================================================
 -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
+
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
     xmlns:t="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="t">
 
     <!-- Output Method and Encoding -->
@@ -52,11 +53,15 @@
     <!-- Suppress teiHeader output -->
     <xsl:template match="t:teiHeader"/>
 
-    <!-- ========================= Template for URL Notes ========================= -->
-    <xsl:template match="t:note[@type = 'url']">
-        <xsl:text>[</xsl:text>
-        <a href="{text()}" target="_blank">Digitalisat</a>
-        <xsl:text>]</xsl:text>
+    <!-- ========================= Named Template for Conditional Sentence Ending ========================= -->
+    <xsl:template name="add-period-if-needed">
+        <xsl:param name="text"/>
+        <xsl:variable name="clean-text" select="normalize-space($text)"/>
+        <xsl:variable name="last-char"
+            select="substring($clean-text, string-length($clean-text), 1)"/>
+        <xsl:if test="not(contains('.!?…', $last-char))">
+            <xsl:text>.</xsl:text>
+        </xsl:if>
     </xsl:template>
 
     <!-- ========================= Named Template for Date Formatting ========================= -->
@@ -109,6 +114,12 @@
         </xsl:choose>
     </xsl:template>
 
+    <!-- ========================= Template for URL Notes ========================= -->
+    <xsl:template match="t:note[@type = 'url']">
+        <xsl:text>[</xsl:text>
+        <a href="{text()}" target="_blank">Digitalisat</a>
+        <xsl:text>]</xsl:text>
+    </xsl:template>
 
     <!-- ========================= Named Template for Zotero-link ========================= -->
     <xsl:template name="zotero-link">
@@ -138,15 +149,35 @@
         </xsl:if>
     </xsl:template>
 
-    <!-- ========================= Named Template for Conditional Sentence Ending ========================= -->
-    <xsl:template name="add-period-if-needed">
-        <xsl:param name="text"/>
-        <xsl:variable name="clean-text" select="normalize-space($text)"/>
-        <xsl:variable name="last-char"
-            select="substring($clean-text, string-length($clean-text), 1)"/>
-        <xsl:if test="not(contains('.!?…', $last-char))">
-            <xsl:text>.</xsl:text>
+    <!-- ========================= Named Template for Processing Bibliographic Notes ========================= -->
+    <xsl:template name="insert-bibliographic-note">
+        <xsl:if test="t:note[@type = 'bibliographic']">
+            <xsl:text> </xsl:text>
+            <span style="font-size: smaller;">
+                <xsl:call-template name="process-bibliographic-note">
+                    <xsl:with-param name="text" select="t:note[@type = 'bibliographic']"/>
+                </xsl:call-template>
+            </span>
         </xsl:if>
+    </xsl:template>
+
+
+    <!-- ========================= Named Template for Processing Bibliographic Notes with Hyperlinks ========================= -->
+    <xsl:template name="process-bibliographic-note">
+        <xsl:param name="text"/>
+
+        <xsl:analyze-string select="$text" regex="(https?://[^\s]+)">
+            <!-- If URL within note, make it clickable -->
+            <xsl:matching-substring>
+                <a href="{.}" target="_blank">
+                    <xsl:value-of select="."/>
+                </a>
+            </xsl:matching-substring>
+            <!-- Normale Inhalte unverändert ausgeben -->
+            <xsl:non-matching-substring>
+                <xsl:value-of select="."/>
+            </xsl:non-matching-substring>
+        </xsl:analyze-string>
     </xsl:template>
 
 
@@ -198,12 +229,7 @@
             <!-- Zotero-link -->
             <xsl:apply-templates select="." mode="zotero"/>
             <!-- Adding a bibliographic note if it exists -->
-            <xsl:if test="t:note[@type = 'bibliographic']">
-                <xsl:text> </xsl:text>
-                <span style="font-size: smaller;">
-                    <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
-                </span>
-            </xsl:if>
+            <xsl:call-template name="insert-bibliographic-note"/>
         </div>
     </xsl:template>
 
@@ -240,13 +266,9 @@
             <xsl:call-template name="process-url-note"/>
             <!-- Zotero Link -->
             <xsl:apply-templates select="." mode="zotero"/>
-            <!-- Add bibliographic note if available -->
-            <xsl:if test="t:note[@type = 'bibliographic']">
-                <xsl:text> </xsl:text>
-                <span style="font-size: smaller;">
-                    <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
-                </span>
-            </xsl:if>
+            <!-- Adding a bibliographic note if it exists -->
+            <xsl:call-template name="insert-bibliographic-note"/>
+
         </div>
     </xsl:template>
 
@@ -275,12 +297,8 @@
             <!-- Zotero-link -->
             <xsl:apply-templates select="." mode="zotero"/>
             <!-- Adding a bibliographic note if it exists -->
-            <xsl:if test="t:note[@type = 'bibliographic']">
-                <xsl:text> </xsl:text>
-                <span style="font-size: smaller;">
-                    <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
-                </span>
-            </xsl:if>
+            <xsl:call-template name="insert-bibliographic-note"/>
+
         </div>
     </xsl:template>
 
@@ -319,12 +337,8 @@
             <!-- Zotero-link -->
             <xsl:apply-templates select="." mode="zotero"/>
             <!-- Adding a bibliographic note if it exists -->
-            <xsl:if test="t:note[@type = 'bibliographic']">
-                <xsl:text> </xsl:text>
-                <span style="font-size: smaller;">
-                    <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
-                </span>
-            </xsl:if>
+            <xsl:call-template name="insert-bibliographic-note"/>
+
         </div>
     </xsl:template>
 
