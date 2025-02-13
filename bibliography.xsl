@@ -11,6 +11,8 @@
 
   Of course, this stylesheet can also be used for other TEI
   bibliographies exported from Zotero.
+  However, for non-german citations, you may need to adjust certain abbreviations,
+  such as replacing "S." (=Seite)) with p. (=page), Hrsg. with ed.
   
   Example output formats:
 
@@ -26,7 +28,7 @@
      Mannheim: Example Press, p. 76–87.
 
   4. Journal Article:
-     Doe, John: Example Article Title. In: Example Journal, ed. by Smith, Jane, vol. 5 (2023).
+     Doe, John: Example Article Title. In: Example Journal, ed. by Smith, Jane, vol. 5 (2023), p. 21–25.
 
   4. Newspaper Article:
      Doe, John: Example News Article Title. In: Example Newspaper: Morning Edition, 
@@ -46,7 +48,7 @@
     <!-- Output Method and Encoding -->
     <xsl:output method="html" media-type="text/html" cdata-section-elements="script style"
         indent="no" encoding="utf-8"/>
-    
+
     <!-- Suppress teiHeader output -->
     <xsl:template match="t:teiHeader"/>
 
@@ -58,52 +60,54 @@
     </xsl:template>
 
     <!-- ========================= Named Template for Date Formatting ========================= -->
-<xsl:template name="format-date">
-    <xsl:param name="date" select="t:monogr/t:imprint/t:date"/>
+    <xsl:template name="format-date">
+        <xsl:param name="date" select="t:monogr/t:imprint/t:date"/>
 
-    <xsl:choose>
-        <!-- If the date is in the expected format YYYY-MM-DD -->
-        <xsl:when test="string-length($date) = 10 and substring($date, 5, 1) = '-' and substring($date, 8, 1) = '-'">
-            
-            <!-- Extract year, month, and day -->
-            <xsl:variable name="year" select="substring($date, 1, 4)"/>
-            <xsl:variable name="month" select="number(substring($date, 6, 2))"/>
-            <xsl:variable name="day" select="number(substring($date, 9, 2))"/>
-            <!-- `number()` automatically removes leading zeros from single-digit days -->
+        <xsl:choose>
+            <!-- If the date is in the expected format YYYY-MM-DD -->
+            <xsl:when
+                test="string-length($date) = 10 and substring($date, 5, 1) = '-' and substring($date, 8, 1) = '-'">
 
-            <!-- Lookup table for month names -->
-            <xsl:variable name="month-names" select="'Januar Februar März April Mai Juni Juli August September Oktober November Dezember'"/>
-            
-            <!-- Extract the correct month name -->
-            <xsl:variable name="month-name">
-                <xsl:choose>
-                    <xsl:when test="$month = 1">Januar</xsl:when>
-                    <xsl:when test="$month = 2">Februar</xsl:when>
-                    <xsl:when test="$month = 3">März</xsl:when>
-                    <xsl:when test="$month = 4">April</xsl:when>
-                    <xsl:when test="$month = 5">Mai</xsl:when>
-                    <xsl:when test="$month = 6">Juni</xsl:when>
-                    <xsl:when test="$month = 7">Juli</xsl:when>
-                    <xsl:when test="$month = 8">August</xsl:when>
-                    <xsl:when test="$month = 9">September</xsl:when>
-                    <xsl:when test="$month = 10">Oktober</xsl:when>
-                    <xsl:when test="$month = 11">November</xsl:when>
-                    <xsl:when test="$month = 12">Dezember</xsl:when>
-                </xsl:choose>
-            </xsl:variable>
+                <!-- Extract year, month, and day -->
+                <xsl:variable name="year" select="substring($date, 1, 4)"/>
+                <xsl:variable name="month" select="number(substring($date, 6, 2))"/>
+                <xsl:variable name="day" select="number(substring($date, 9, 2))"/>
+                <!-- `number()` automatically removes leading zeros from single-digit days -->
 
-            <!-- output formatted date: day without leading zero + month name + year -->
-            <xsl:value-of select="concat($day, '. ', $month-name, ' ', $year)"/>
-        </xsl:when>
+                <!-- Lookup table for month names -->
+                <xsl:variable name="month-names"
+                    select="'Januar Februar März April Mai Juni Juli August September Oktober November Dezember'"/>
 
-        <!-- If the date is not in the expected format, output as-is -->
-        <xsl:when test="normalize-space($date) != ''">
-            <xsl:value-of select="$date"/>
-        </xsl:when>
+                <!-- Extract the correct month name -->
+                <xsl:variable name="month-name">
+                    <xsl:choose>
+                        <xsl:when test="$month = 1">Januar</xsl:when>
+                        <xsl:when test="$month = 2">Februar</xsl:when>
+                        <xsl:when test="$month = 3">März</xsl:when>
+                        <xsl:when test="$month = 4">April</xsl:when>
+                        <xsl:when test="$month = 5">Mai</xsl:when>
+                        <xsl:when test="$month = 6">Juni</xsl:when>
+                        <xsl:when test="$month = 7">Juli</xsl:when>
+                        <xsl:when test="$month = 8">August</xsl:when>
+                        <xsl:when test="$month = 9">September</xsl:when>
+                        <xsl:when test="$month = 10">Oktober</xsl:when>
+                        <xsl:when test="$month = 11">November</xsl:when>
+                        <xsl:when test="$month = 12">Dezember</xsl:when>
+                    </xsl:choose>
+                </xsl:variable>
 
-        <!-- If no date exists, output nothing -->
-    </xsl:choose>
-</xsl:template>
+                <!-- output formatted date: day without leading zero + month name + year -->
+                <xsl:value-of select="concat($day, '. ', $month-name, ' ', $year)"/>
+            </xsl:when>
+
+            <!-- If the date is not in the expected format, output as-is -->
+            <xsl:when test="normalize-space($date) != ''">
+                <xsl:value-of select="$date"/>
+            </xsl:when>
+
+            <!-- If no date exists, output nothing -->
+        </xsl:choose>
+    </xsl:template>
 
 
     <!-- ========================= Named Template for Zotero-link ========================= -->
@@ -134,165 +138,193 @@
         </xsl:if>
     </xsl:template>
 
+    <!-- ========================= Named Template for Conditional Sentence Ending ========================= -->
+    <xsl:template name="add-period-if-needed">
+        <xsl:param name="text"/>
+        <xsl:variable name="clean-text" select="normalize-space($text)"/>
+        <xsl:variable name="last-char"
+            select="substring($clean-text, string-length($clean-text), 1)"/>
+        <xsl:if test="not(contains('.!?…', $last-char))">
+            <xsl:text>.</xsl:text>
+        </xsl:if>
+    </xsl:template>
+
+
     <!-- ========================= Template for Journal Articles (journalArticle) ========================= -->
     <xsl:template match="t:biblStruct[@type = 'journalArticle']">
         <div class="bibl-entry">
-        <!-- Stores the 'corresp' attribute value for potential linking -->
-        <xsl:variable name="corresp" select="@corresp"/>
-        <!-- Apply templates to the 'analytic' part (author and title of the article) -->
-        <xsl:apply-templates select="t:analytic"/>
-        <xsl:text>. In: </xsl:text>
-        <!-- Journal Title -->
-        <xsl:apply-templates select="t:monogr/t:title[@level = 'j']"/>
-        <!-- Editor (if any) -->
-        <xsl:if test="t:monogr/t:editor">
-            <xsl:text>, hrsg. von </xsl:text>
-            <xsl:apply-templates select="t:monogr/t:editor"/>
-        </xsl:if>
-        <!-- Volume -->
-        <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'volume']">
-            <xsl:text>, </xsl:text>
-            <xsl:apply-templates select="t:monogr/t:imprint/t:biblScope[@unit = 'volume']"/>
-        </xsl:if>
-        <!-- Issue -->
-        <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'issue']">
-            <xsl:text>, </xsl:text>
-            <xsl:apply-templates select="t:monogr/t:imprint/t:biblScope[@unit = 'issue']"/>
-        </xsl:if>
-        <!-- Date -->
-        <xsl:if test="t:monogr/t:imprint/t:date">
-            <xsl:text> (</xsl:text>
-            <xsl:call-template name="format-date">
-                <xsl:with-param name="date" select="t:monogr/t:imprint/t:date"/>
+            <!-- Stores the 'corresp' attribute value for potential linking -->
+            <xsl:variable name="corresp" select="@corresp"/>
+            <!-- Apply templates to the 'analytic' part (author and title of the article) -->
+            <xsl:apply-templates select="t:analytic"/>
+            <xsl:call-template name="add-period-if-needed">
+                <xsl:with-param name="text" select="string(t:analytic/t:title[@level = 'a'])"/>
             </xsl:call-template>
-            <xsl:text>)</xsl:text>
-        </xsl:if>
-        <!-- URL-Note -->
-        <xsl:call-template name="process-url-note"/>
-        <!-- Zotero-link -->
-        <xsl:apply-templates select="." mode="zotero"/>
-        <!-- Adding a bibliographic note if it exists -->
-        <xsl:if test="t:note[@type = 'bibliographic']">
-            <xsl:text> </xsl:text>
-            <span style="font-size: smaller;">
-                <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
-            </span>
-        </xsl:if>
+            <xsl:text> In: </xsl:text>
+
+            <!-- Journal Title -->
+            <xsl:apply-templates select="t:monogr/t:title[@level = 'j']"/>
+            <!-- Editor (if any) -->
+            <xsl:if test="t:monogr/t:editor">
+                <xsl:text>, hrsg. von </xsl:text>
+                <xsl:apply-templates select="t:monogr/t:editor"/>
+            </xsl:if>
+            <!-- Volume -->
+            <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'volume']">
+                <xsl:text>, </xsl:text>
+                <xsl:apply-templates select="t:monogr/t:imprint/t:biblScope[@unit = 'volume']"/>
+            </xsl:if>
+            <!-- Issue -->
+            <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'issue']">
+                <xsl:text>, </xsl:text>
+                <xsl:apply-templates select="t:monogr/t:imprint/t:biblScope[@unit = 'issue']"/>
+            </xsl:if>
+            <!-- Date -->
+            <xsl:if test="t:monogr/t:imprint/t:date">
+                <xsl:text> (</xsl:text>
+                <xsl:call-template name="format-date">
+                    <xsl:with-param name="date" select="t:monogr/t:imprint/t:date"/>
+                </xsl:call-template>
+                <xsl:text>)</xsl:text>
+            </xsl:if>
+            <!-- If page number exists, print it -->
+            <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'page']">
+                <xsl:text>, S. </xsl:text>
+                <xsl:apply-templates select="t:monogr/t:imprint/t:biblScope[@unit = 'page']"/>
+            </xsl:if>
+            <xsl:text>. </xsl:text>
+            <!-- URL-Note -->
+            <xsl:call-template name="process-url-note"/>
+            <!-- Zotero-link -->
+            <xsl:apply-templates select="." mode="zotero"/>
+            <!-- Adding a bibliographic note if it exists -->
+            <xsl:if test="t:note[@type = 'bibliographic']">
+                <xsl:text> </xsl:text>
+                <span style="font-size: smaller;">
+                    <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
+                </span>
+            </xsl:if>
         </div>
     </xsl:template>
 
     <!-- ========================= Template for Newspaper Articles (newspaperArticle) ========================= -->
     <xsl:template match="t:biblStruct[@type = 'newspaperArticle']">
         <div class="bibl-entry">
-        <!-- Store 'corresp' attribute for potential linking -->
-        <xsl:variable name="corresp" select="@corresp"/>
-        <!-- Apply templates to 'analytic' (author, title) -->
-        <xsl:apply-templates select="t:analytic"/>
-        <xsl:text>. In: </xsl:text>
-        <!-- Apply templates to 'monogr' (newspaper title) -->
-        <xsl:apply-templates select="t:monogr"/>
-        <xsl:text>, </xsl:text>
-        <!-- Apply templates to publication place -->
-        <xsl:apply-templates select="t:monogr/t:imprint/t:pubPlace"/>
-        <xsl:text>, </xsl:text>
-        <!-- Call format-date only if <date> exists -->
-        <xsl:if test="t:monogr/t:imprint/t:date">
-            <xsl:call-template name="format-date">
-                <xsl:with-param name="date" select="t:monogr/t:imprint/t:date"/>
+            <!-- Store 'corresp' attribute for potential linking -->
+            <xsl:variable name="corresp" select="@corresp"/>
+            <!-- Apply templates to 'analytic' (author, title) -->
+            <xsl:apply-templates select="t:analytic"/>
+            <xsl:call-template name="add-period-if-needed">
+                <xsl:with-param name="text" select="string(t:analytic/t:title[@level = 'a'])"/>
             </xsl:call-template>
-        </xsl:if>
-        <!-- If page number exists, print it -->
-        <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'page']">
-            <xsl:text>, S. </xsl:text>
-            <xsl:apply-templates select="t:monogr/t:imprint/t:biblScope[@unit = 'page']"/>
-        </xsl:if>
-        <xsl:text>. </xsl:text>
-        <!-- URL Note -->
-        <xsl:call-template name="process-url-note"/>
-        <!-- Zotero Link -->
-        <xsl:apply-templates select="." mode="zotero"/>
-        <!-- Add bibliographic note if available -->
-        <xsl:if test="t:note[@type = 'bibliographic']">
-            <xsl:text> </xsl:text>
-            <span style="font-size: smaller;">
-                <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
-            </span>
-        </xsl:if>
+            <xsl:text> In: </xsl:text>
+            <!-- Apply templates to 'monogr' (newspaper title) -->
+            <xsl:apply-templates select="t:monogr"/>
+            <xsl:text>, </xsl:text>
+            <!-- Apply templates to publication place -->
+            <xsl:apply-templates select="t:monogr/t:imprint/t:pubPlace"/>
+            <xsl:text>, </xsl:text>
+            <!-- Call format-date only if <date> exists -->
+            <xsl:if test="t:monogr/t:imprint/t:date">
+                <xsl:call-template name="format-date">
+                    <xsl:with-param name="date" select="t:monogr/t:imprint/t:date"/>
+                </xsl:call-template>
+            </xsl:if>
+            <!-- If page number exists, print it -->
+            <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'page']">
+                <xsl:text>, S. </xsl:text>
+                <xsl:apply-templates select="t:monogr/t:imprint/t:biblScope[@unit = 'page']"/>
+            </xsl:if>
+            <xsl:text>. </xsl:text>
+            <!-- URL Note -->
+            <xsl:call-template name="process-url-note"/>
+            <!-- Zotero Link -->
+            <xsl:apply-templates select="." mode="zotero"/>
+            <!-- Add bibliographic note if available -->
+            <xsl:if test="t:note[@type = 'bibliographic']">
+                <xsl:text> </xsl:text>
+                <span style="font-size: smaller;">
+                    <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
+                </span>
+            </xsl:if>
         </div>
     </xsl:template>
 
     <!-- ========================= Template for Book Sections (bookSection) ========================= -->
     <xsl:template match="t:biblStruct[@type = 'bookSection']">
         <div class="bibl-entry">
-        <!-- Stores the 'corresp' attribute value for potential linking -->
-        <xsl:variable name="corresp" select="@corresp"/>
-        <!-- Apply templates to the 'analytic' part (author and title of the chapter) -->
-        <xsl:apply-templates select="t:analytic"/>
-        <xsl:text>. In: </xsl:text>
-        <!-- Apply templates to the 'monogr' part (book title, editor, etc.) -->
-        <xsl:apply-templates select="t:monogr"/>
-        <!-- Check if page information is available -->
-        <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'page']">
-            <xsl:text>, S. </xsl:text>
-            <!-- Apply templates to the page number -->
-            <xsl:apply-templates select="t:monogr/t:imprint/t:biblScope[@unit = 'page']"/>
-        </xsl:if>
-        <xsl:text>. </xsl:text>
-        <!-- URL-Note -->
-        <xsl:call-template name="process-url-note"/>
-        <!-- Zotero-link -->
-        <xsl:apply-templates select="." mode="zotero"/>
-        <!-- Adding a bibliographic note if it exists -->
-        <xsl:if test="t:note[@type = 'bibliographic']">
-            <xsl:text> </xsl:text>
-            <span style="font-size: smaller;">
-                <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
-            </span>
-        </xsl:if>
+            <!-- Stores the 'corresp' attribute value for potential linking -->
+            <xsl:variable name="corresp" select="@corresp"/>
+            <!-- Apply templates to the 'analytic' part (author and title of the chapter) -->
+            <xsl:apply-templates select="t:analytic"/>
+            <xsl:call-template name="add-period-if-needed">
+                <xsl:with-param name="text" select="string(t:analytic/t:title[@level = 'a'])"/>
+            </xsl:call-template>
+            <xsl:text> In: </xsl:text>
+            <!-- Apply templates to the 'monogr' part (book title, editor, etc.) -->
+            <xsl:apply-templates select="t:monogr"/>
+            <!-- Check if page information is available -->
+            <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'page']">
+                <xsl:text>, S. </xsl:text>
+                <!-- Apply templates to the page number -->
+                <xsl:apply-templates select="t:monogr/t:imprint/t:biblScope[@unit = 'page']"/>
+            </xsl:if>
+            <xsl:text>. </xsl:text>
+            <!-- URL-Note -->
+            <xsl:call-template name="process-url-note"/>
+            <!-- Zotero-link -->
+            <xsl:apply-templates select="." mode="zotero"/>
+            <!-- Adding a bibliographic note if it exists -->
+            <xsl:if test="t:note[@type = 'bibliographic']">
+                <xsl:text> </xsl:text>
+                <span style="font-size: smaller;">
+                    <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
+                </span>
+            </xsl:if>
         </div>
     </xsl:template>
 
     <!-- ========================= Template for Monographs (book) ========================= -->
     <xsl:template match="t:biblStruct[not(@type)] | t:biblStruct[@type = 'book']">
         <div class="bibl-entry">
-        <!-- Stores the 'corresp' attribute value for potential linking -->
-        <xsl:variable name="corresp" select="@corresp"/>
-        <!-- Apply templates to the 'monogr' part (book title, etc.) -->
-        <xsl:apply-templates select="t:monogr"/>
-        <xsl:text>. </xsl:text>
-        <!-- Apply templates to the publication place -->
-        <xsl:apply-templates select="t:monogr/t:imprint/t:pubPlace"/>
-        <xsl:text>: </xsl:text>
-        <!-- Apply templates to the publisher -->
-        <xsl:apply-templates select="t:monogr/t:imprint/t:publisher"/>
-        <xsl:text> </xsl:text>
-        <!-- Apply templates to the publication date -->
-        <xsl:apply-templates select="t:monogr/t:imprint/t:date"/>
-        <xsl:text>. </xsl:text>
-        <!-- Check if series information is available -->
-        <xsl:if test="t:series/t:title[@level = 's']">
-            <xsl:text> (= </xsl:text>
-            <!-- Apply templates to the series title -->
-            <xsl:apply-templates select="t:series/t:title[@level = 's']"/>
-            <!-- Check if series volume information is available -->
-            <xsl:if test="t:series/t:biblScope[@unit = 'volume']">
-                <xsl:text>, </xsl:text>
-                <!-- Apply templates to the series volume -->
-                <xsl:apply-templates select="t:series/t:biblScope[@unit = 'volume']"/>
-            </xsl:if>
-            <xsl:text>)</xsl:text>
-        </xsl:if>
-        <!-- URL-Note -->
-        <xsl:call-template name="process-url-note"/>
-        <!-- Zotero-link -->
-        <xsl:apply-templates select="." mode="zotero"/>
-        <!-- Adding a bibliographic note if it exists -->
-        <xsl:if test="t:note[@type = 'bibliographic']">
+            <!-- Stores the 'corresp' attribute value for potential linking -->
+            <xsl:variable name="corresp" select="@corresp"/>
+            <!-- Apply templates to the 'monogr' part (book title, etc.) -->
+            <xsl:apply-templates select="t:monogr"/>
+            <xsl:text>. </xsl:text>
+            <!-- Apply templates to the publication place -->
+            <xsl:apply-templates select="t:monogr/t:imprint/t:pubPlace"/>
+            <xsl:text>: </xsl:text>
+            <!-- Apply templates to the publisher -->
+            <xsl:apply-templates select="t:monogr/t:imprint/t:publisher"/>
             <xsl:text> </xsl:text>
-            <span style="font-size: smaller;">
-                <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
-            </span>
-        </xsl:if>
+            <!-- Apply templates to the publication date -->
+            <xsl:apply-templates select="t:monogr/t:imprint/t:date"/>
+            <xsl:text>. </xsl:text>
+            <!-- Check if series information is available -->
+            <xsl:if test="t:series/t:title[@level = 's']">
+                <xsl:text> (= </xsl:text>
+                <!-- Apply templates to the series title -->
+                <xsl:apply-templates select="t:series/t:title[@level = 's']"/>
+                <!-- Check if series volume information is available -->
+                <xsl:if test="t:series/t:biblScope[@unit = 'volume']">
+                    <xsl:text>, </xsl:text>
+                    <!-- Apply templates to the series volume -->
+                    <xsl:apply-templates select="t:series/t:biblScope[@unit = 'volume']"/>
+                </xsl:if>
+                <xsl:text>)</xsl:text>
+            </xsl:if>
+            <!-- URL-Note -->
+            <xsl:call-template name="process-url-note"/>
+            <!-- Zotero-link -->
+            <xsl:apply-templates select="." mode="zotero"/>
+            <!-- Adding a bibliographic note if it exists -->
+            <xsl:if test="t:note[@type = 'bibliographic']">
+                <xsl:text> </xsl:text>
+                <span style="font-size: smaller;">
+                    <xsl:apply-templates select="t:note[@type = 'bibliographic']"/>
+                </span>
+            </xsl:if>
         </div>
     </xsl:template>
 
