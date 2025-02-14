@@ -24,7 +24,7 @@
      London: Example Publisher, p. 123–134.
 
   3. Book Section (if `t:biblScope[@unit='volume']` is used; multi-volume work):
-     Doe, John: Example Chapter Title. In: ed. by Brown, Alice, The Great Anthology of Literature, vol. 3. 
+     Doe, John: Example Chapter Title. In: Alice Brown (ed.), The Great Anthology of Literature, vol. 3. 
      Mannheim: Example Press, p. 76–87.
 
   4. Journal Article:
@@ -44,8 +44,10 @@
 -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
-    xmlns:t="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="t">
-
+    xmlns:t="http://www.tei-c.org/ns/1.0"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    exclude-result-prefixes="t xs">
+    
     <!-- Output Method and Encoding -->
     <xsl:output method="html" media-type="text/html" cdata-section-elements="script style"
         indent="no" encoding="utf-8"/>
@@ -196,10 +198,10 @@
             <!-- Journal Title -->
             <xsl:apply-templates select="t:monogr/t:title[@level = 'j']"/>
             <!-- Editor (if any) -->
-            <xsl:if test="t:monogr/t:editor">
-                <xsl:text>, hrsg. von </xsl:text>
-                <xsl:apply-templates select="t:monogr/t:editor"/>
-            </xsl:if>
+            <xsl:call-template name="format-editor">
+                <xsl:with-param name="select" select="t:monogr/t:editor"/>
+                <xsl:with-param name="context" select="'journal'"/>
+            </xsl:call-template>
             <!-- Volume -->
             <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'volume']">
                 <xsl:text>, </xsl:text>
@@ -285,6 +287,11 @@
             <xsl:text> In: </xsl:text>
             <!-- Apply templates to the 'monogr' part (book title, editor, etc.) -->
             <xsl:apply-templates select="t:monogr"/>
+            <!-- Editor (if any) -->
+            <xsl:call-template name="format-editor">
+                <xsl:with-param name="select" select="t:monogr/t:editor"/>
+                <xsl:with-param name="context" select="'bookSection'"/>
+            </xsl:call-template>
             <!-- Check if page information is available -->
             <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'page']">
                 <xsl:text>, S. </xsl:text>
@@ -391,57 +398,99 @@
         </span>
     </xsl:template>
 
-    <!-- ========================= Editor Formatting for Monographs ========================= -->
-    <xsl:template match="t:monogr/t:editor">
-        <!-- Apply templates to the forename -->
-        <xsl:apply-templates select="t:forename"/>
-        <xsl:text> </xsl:text>
-        <!-- Apply templates to the surname -->
-        <xsl:apply-templates select="t:surname"/>
-        <!-- Add a comma and space if it's NOT the last editor -->
-        <xsl:if test="position() != last()">
-            <xsl:text>, </xsl:text>
+    <!-- ========================= Editor Formatting ========================= -->
+    <xsl:template name="format-editor">
+        <xsl:param name="select" as="element()*"/>
+        <xsl:param name="context" as="xs:string"/>
+        <xsl:if test="$select">
+            <xsl:choose>
+                <xsl:when test="$select[1]/t:forename and $select[1]/t:surname">
+                    <xsl:choose>
+                        <xsl:when test="$context = 'journal'">
+                            <xsl:text>, hrsg. von </xsl:text>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:text>hrsg. von </xsl:text>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                    <xsl:for-each select="$select">
+                        <xsl:apply-templates select="t:forename"/>
+                        <xsl:text> </xsl:text>
+                        <xsl:apply-templates select="t:surname"/>
+                        <xsl:if test="position() != last()">
+                            <xsl:text>, </xsl:text>
+                        </xsl:if>
+                    </xsl:for-each>
+                </xsl:when>
+                <xsl:when test="$select[1]/t:name">
+                    <xsl:choose>
+                        <xsl:when test="$context = 'journal'">
+                            <xsl:text>, hrsg. </xsl:text>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:text>hrsg. </xsl:text>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                    <xsl:for-each select="$select">
+                        <xsl:value-of select="t:name"/>
+                        <xsl:if test="position() != last()">
+                            <xsl:text>, </xsl:text>
+                        </xsl:if>
+                    </xsl:for-each>
+                </xsl:when>
+            </xsl:choose>
         </xsl:if>
     </xsl:template>
 
+    <!-- ========================= Template for Book Sections (bookSection) ========================= -->
+    <xsl:template match="t:biblStruct[@type = 'bookSection']">
+        <div class="bibl-entry">
+            <xsl:variable name="corresp" select="@corresp"/>
+            <xsl:apply-templates select="t:analytic"/>
+            <xsl:call-template name="add-period-if-needed">
+                <xsl:with-param name="text" select="string(t:analytic/t:title[@level = 'a'])"/>
+            </xsl:call-template>
+            <xsl:text> In: </xsl:text>
+            <xsl:apply-templates select="t:monogr"/>  <!-- Process monograph part using specific template below -->
+            
+            <xsl:if test="t:monogr/t:imprint/t:biblScope[@unit = 'page']">
+                <xsl:text>, S. </xsl:text>
+                <xsl:apply-templates select="t:monogr/t:imprint/t:biblScope[@unit = 'page']"/>
+            </xsl:if>
+            <xsl:text>. </xsl:text>
+            <xsl:call-template name="insert-bibliographic-note"/>
+            <xsl:apply-templates select="." mode="zotero"/>
+            <xsl:call-template name="insert-bibliographic-note"/>
+        </div>
+    </xsl:template>
+    
     <!-- ========================= Template for Monogr within Book Sections ========================= -->
     <xsl:template match="t:biblStruct[@type = 'bookSection']/t:monogr">
-        <xsl:choose>
-            <!-- If the monogr has authors, process them -->
-            <xsl:when test="t:author">
-                <xsl:apply-templates select="t:author"/>
-            </xsl:when>
-            <!-- If the monogr has an editor with a 'name' element, process it -->
-            <xsl:when test="t:editor/t:name">
-                <xsl:apply-templates select="t:editor/t:name"/>
-            </xsl:when>
-            <!-- If the monogr has an editor (with forename and surname), format as editor -->
-            <xsl:when test="t:editor">
-                <xsl:text>hrsg. von </xsl:text>
-                <xsl:apply-templates select="t:editor"/>
-            </xsl:when>
-        </xsl:choose>
-        <xsl:text>, </xsl:text>
-        <!-- Apply templates to the title of the book -->
+        <!-- Format editor if present -->
+        <xsl:call-template name="format-editor">
+            <xsl:with-param name="select" select="t:editor"/>
+            <xsl:with-param name="context" select="'bookSection'"/>
+        </xsl:call-template>
+        <xsl:text>, </xsl:text> <!-- Space after editor -->
+        <!-- Book title -->
         <xsl:apply-templates select="t:title[@level = 'm']"/>
-
-        <!-- Check if volume information is available -->
+        
+        <!-- Volume information -->
         <xsl:if test="t:imprint/t:biblScope[@unit = 'volume']">
-            <xsl:text>, </xsl:text>
+            <xsl:text>, Bd. </xsl:text>
             <xsl:apply-templates select="t:imprint/t:biblScope[@unit = 'volume']"/>
-        </xsl:if>
-
-        <!-- Add publication place if available -->
+        </xsl:if>        
+        <!-- Publication place -->
         <xsl:if test="t:imprint/t:pubPlace">
             <xsl:text>. </xsl:text>
             <xsl:apply-templates select="t:imprint/t:pubPlace"/>
         </xsl:if>
-        <!-- Add publisher if available -->
+        <!-- Publisher -->
         <xsl:if test="t:imprint/t:publisher">
             <xsl:text>: </xsl:text>
             <xsl:apply-templates select="t:imprint/t:publisher"/>
         </xsl:if>
-        <!-- Add publication date if available -->
+        <!-- Publication date -->
         <xsl:if test="t:imprint/t:date">
             <xsl:text> </xsl:text>
             <xsl:call-template name="format-date"/>
@@ -458,23 +507,6 @@
         </xsl:if>
         <!-- Apply templates to the title -->
         <xsl:apply-templates select="t:title"/>
-
-        <!-- Editor information specifically for journal articles -->
-        <xsl:if test="ancestor::t:biblStruct[@type = 'journalArticle']">
-            <xsl:choose>
-                <!-- Standard case: editor with forename and surname -->
-                <xsl:when test="t:editor/t:forename and t:editor/t:surname">
-                    <xsl:text>, hrsg. von </xsl:text>
-                    <xsl:apply-templates select="t:editor"/>
-                </xsl:when>
-                <!-- Special case: editor with a 'name' element -->
-                <xsl:when test="t:editor/t:name">
-                    <xsl:text>, hrsg. von </xsl:text>
-                    <xsl:value-of select="t:editor/t:name"/>
-                </xsl:when>
-                <!-- If no editor information is available, do nothing -->
-            </xsl:choose>
-        </xsl:if>
 
         <!-- Volume and issue information for journal articles -->
         <xsl:if test="ancestor::t:biblStruct[@type = 'journalArticle']">
