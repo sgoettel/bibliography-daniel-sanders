@@ -631,7 +631,9 @@
                         <title level="m">Libanon: Ein poetisches Familienbuch</title>
                         <editor><forename>Ludwig August</forename><surname>Frankl</surname></editor>
                         <imprint>
+                            <pubPlace>Wien</pubPlace>
                             <biblScope unit="page">265</biblScope>
+                            <publisher>L. C. Zamarski</publisher>
                             <date>1855</date>
                             <note type="url">http://data.onb.ac.at/rep/107E7369</note>
                         </imprint>
@@ -2506,7 +2508,7 @@
                         gemeinsam mit "Geschichte der deutschen Sprache und Litteratur" verlegt und
                         erhält den Titelzusatz "Nebst Anhang Geschichte der deutschen Sprache und
                         Litteratur bis zu Goethe's Tod", vgl. die 6. Aufl., 1886:
-                        https://archive.org/details/deutschesprachb00sandgoog. Insgesamt erlebte das
+                        https://archive.org/details/deutschesprachb00sandgoog Insgesamt erlebte das
                         Werk bis 1906 21 Auflagen.</note>
                 </biblStruct>
                 <biblStruct type="book" xml:id="Sanders1879d"
@@ -2637,27 +2639,10 @@
                         </imprint>
                     </monogr>
                     <note type="bibliographic">Erlebte insgesamt wohl 24 Auflagen, vgl.:
-                        https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11023545-2.</note>
+                        https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11023545-2</note>
                 </biblStruct>
+                
                 <biblStruct type="book" xml:id="Sanders1880c"
-                    corresp="http://zotero.org/users/6499868/items/GBLMHFEU">
-                    <monogr>
-                        <title level="m">Ueber Juden und Christen: ein Wort zu rechter Zeit und am
-                            rechten Ort / in Reime gezwungen und abgesungen von Hans Sachse, dem
-                            Jüngeren Meistersänger und Schuhmacher dazu. Nachgeschrieben mit
-                            rüstingen Fingern. Gedruckt in diesem Jahr, wo über die Juden zu
-                            schreiben Mode war</title>
-                        <author><forename>Daniel</forename><surname>Sanders</surname></author>
-                        <imprint>
-                            <date>1880</date>
-                        </imprint>
-                    </monogr>
-                    <note type="bibliographic">Der Druck erschien nur unter dem Pseudonym Hans
-                        Sachse. Vermutl. Wiederauflage von 1804. Zu diesem Zeitpunkt erschien das
-                        Büchlein mit exakt gleichem Titel und auch ohne Verlags- oder
-                        Druckortangabe.</note>
-                </biblStruct>
-                <biblStruct type="book" xml:id="Sanders1880d"
                     corresp="http://zotero.org/users/6499868/items/9NJTPVPS">
                     <monogr>
                         <title level="m">Kurzgefaßtes Hilfsbuch der Rechtschreibung für deutsche
@@ -2671,7 +2656,7 @@
                         </imprint>
                     </monogr>
                 </biblStruct>
-                <biblStruct type="newspaperArticle" xml:id="Sanders1880e"
+                <biblStruct type="newspaperArticle" xml:id="Sanders1880d"
                     corresp="http://zotero.org/users/6499868/items/CUV67PSD">
                     <analytic>
                         <title level="a">Preußische Schulorthographie</title>
@@ -2693,7 +2678,7 @@
                         </imprint>
                     </monogr>
                 </biblStruct>
-                <biblStruct type="newspaperArticle" xml:id="Sanders1880f"
+                <biblStruct type="newspaperArticle" xml:id="Sanders1880e"
                     corresp="http://zotero.org/users/6499868/items/SX7C8CFV">
                     <analytic>
                         <title level="a">Zur Erinnerung an Heinrich Bernhard Oppenheim</title>
@@ -2989,6 +2974,7 @@
                             Pronomina im besondern</title>
                         <author><forename>Daniel</forename><surname>Sanders</surname></author>
                         <imprint>
+                            <pubPlace>Berlin</pubPlace>
                             <publisher>Abenheim'sche Verlagsbuchhandlung</publisher>
                             <date>1884</date>
                             <note type="url">https://books.google.de/books?id=b0hTAAAAcAAJ</note>
@@ -3308,7 +3294,7 @@
                                 >https://de.wikipedia.org/wiki/Datei:Daniel_Sander_Taschenlexikon.pdf</note>
                         </imprint>
                     </monogr>
-                    <note type="bibliographic">Dasvorliegende Digitalisat zeigt die 2. Aufl.
+                    <note type="bibliographic">Das vorliegende Digitalisat zeigt die 2. Aufl.
                         (1895).</note>
                 </biblStruct>
                 <biblStruct type="bookSection" xml:id="Sanders1888a"
@@ -3323,6 +3309,7 @@
                         <editor><name>Schorers Familienblatt</name></editor>
                         <imprint>
                             <pubPlace>Berlin</pubPlace>
+                            <biblScope unit="page">60</biblScope>
                             <publisher>J. H. Schorer</publisher>
                             <date>1888</date>
                             <note type="url"
@@ -3368,25 +3355,6 @@
                             <date>1888</date>
                             <note type="url"
                                 >https://books.google.de/books?id=2s5XfieXoqYC&amp;pg=PA289</note>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <biblStruct type="bookSection" xml:id="Sanders1888d"
-                    corresp="http://zotero.org/users/6499868/items/EQ562PBB">
-                    <analytic>
-                        <title level="a">ohne Titel</title>
-                        <author><forename>Daniel</forename><surname>Sanders</surname></author>
-                    </analytic>
-                    <monogr>
-                        <title level="m">In Luft und Sonne: Künstler und
-                            Selbstschriften-Album</title>
-                        <editor><name>Schorers Familienblatt</name></editor>
-                        <imprint>
-                            <pubPlace>Berlin</pubPlace>
-                            <publisher>J. H. Schorer</publisher>
-                            <date>1888</date>
-                            <note type="url"
-                                >https://books.google.de/books?id=Y5pvsIFi2U4C&amp;pg=PA60</note>
                         </imprint>
                     </monogr>
                 </biblStruct>
