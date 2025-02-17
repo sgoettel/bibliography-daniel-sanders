@@ -273,7 +273,7 @@
         </div>
     </xsl:template>
 
-    <!-- ========================= Template für Book Sections (bookSection) ========================= -->
+    <!-- ========================= Template for Book Sections (bookSection) ========================= -->
     <xsl:template match="t:biblStruct[@type = 'bookSection']">
         <div class="bibl-entry">
             <xsl:variable name="corresp" select="@corresp"/>
@@ -344,7 +344,6 @@
         </div>
     </xsl:template>
 
-
     <!-- ========================= Template for Monographs (book) ========================= -->
     <xsl:template match="t:biblStruct[not(@type)] | t:biblStruct[@type = 'book']">
         <div class="bibl-entry">
@@ -381,7 +380,6 @@
             <xsl:apply-templates select="." mode="zotero"/>
             <!-- Adding a bibliographic note if it exists -->
             <xsl:call-template name="insert-bibliographic-note"/>
-
         </div>
     </xsl:template>
 
@@ -478,7 +476,6 @@
         </xsl:if>
     </xsl:template>
 
-
     <!-- ========================= Template for Monogr within Book Sections ========================= -->
     <xsl:template match="t:biblStruct[@type = 'bookSection']/t:monogr">
         <!-- Format editor if present -->
@@ -490,7 +487,6 @@
         <!-- Space after editor -->
         <!-- Book title -->
         <xsl:apply-templates select="t:title[@level = 'm']"/>
-
         <!-- Volume information -->
         <xsl:if test="t:imprint/t:biblScope[@unit = 'volume']">
             <xsl:text>, Bd. </xsl:text>
@@ -523,7 +519,6 @@
         </xsl:if>
         <!-- Apply templates to the title -->
         <xsl:apply-templates select="t:title"/>
-
         <!-- Volume and issue information for journal articles -->
         <xsl:if test="ancestor::t:biblStruct[@type = 'journalArticle']">
             <xsl:if test="t:imprint/t:biblScope[@unit = 'volume']">
@@ -535,14 +530,12 @@
                 <xsl:apply-templates select="t:imprint/t:biblScope[@unit = 'issue']"/>
             </xsl:if>
         </xsl:if>
-
         <!-- Volume information for monographs -->
         <xsl:if
             test="t:imprint/t:biblScope[@unit = 'volume'] and ancestor::t:biblStruct[not(@type) or @type = 'book']">
             <xsl:text> </xsl:text>
             <xsl:apply-templates select="t:imprint/t:biblScope[@unit = 'volume']"/>
         </xsl:if>
-
         <!-- Series information -->
         <xsl:if test="t:series">
             <xsl:text>. (= </xsl:text>
@@ -553,7 +546,6 @@
             </xsl:if>
             <xsl:text>)</xsl:text>
         </xsl:if>
-
         <!-- Date for journal articles -->
         <xsl:if test="t:imprint/t:date and ancestor::t:biblStruct[@type = 'journalArticle']">
             <xsl:text> (</xsl:text>
@@ -562,7 +554,6 @@
             </xsl:call-template>
             <xsl:text>)</xsl:text>
         </xsl:if>
-
     </xsl:template>
 
     <!-- imprint information is handled within the specific biblStruct templates. -->
